@@ -1,0 +1,57 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/leather_horse_armor"
+  },
+  "overrides": [
+    {
+      "predicate": 
+      {
+        "custom_model_data":1
+      },
+      "model": "mctc:hats/witch"	
+    },
+    {
+      "predicate": 
+      {
+        "custom_model_data":2
+      },
+      "model": "mctc:hats/mask"	
+    },
+    {
+      "predicate": 
+      {
+        "custom_model_data":3
+      },
+      "model": "mctc:hats/pummy"	
+    },
+    {
+      "predicate": 
+      {
+        "custom_model_data":4
+      },
+      "model": "mctc:hats/ghosti"	
+    },
+    {
+      "predicate": 
+      {
+        "custom_model_data":5
+      },
+      "model": "mctc:hats/horn"	
+    },
+    {
+      "predicate": 
+      {
+        "custom_model_data":6
+      },
+      "model": "mctc:hats/halo"	
+    },
+    {
+      "predicate": 
+      {
+        "custom_model_data":7
+      },
+      "model": "mctc:hats/crown"	
+    }
+  ]
+}

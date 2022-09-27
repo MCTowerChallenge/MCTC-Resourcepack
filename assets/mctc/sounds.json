@@ -1,0 +1,17 @@
+{
+  "notification": {
+    "sounds": [
+        "mctc:notification"
+    ]
+  },
+  "suspense": {
+    "sounds": [
+        "mctc:suspenseshort"
+    ]
+  },
+  "vine": {
+    "sounds": [
+        "mctc:vine"
+    ]
+  }
+}
