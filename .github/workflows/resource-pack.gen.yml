@@ -11,10 +11,9 @@ jobs:
         uses: Sorrowfall/Resource-Packager@main
         with:
           parts: # A list of directories to create the Resource Pack with
-            pack_data/
-            pack_textures/
+            .
             # Directories take priority as they go down the list, replacing any files from the above directories
-          name: MyPack # The name of the Resource Pack
+          name: MCTC # The name of the Resource Pack
           output-directory: build # What directory to save the Resource Pack in
           optimize-jsons: true # Whether or not to optimize JSON file
       # copy-paste down to here
