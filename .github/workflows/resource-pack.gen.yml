@@ -1,0 +1,28 @@
+name: build-resource-pack
+on: [push]
+jobs:
+  check-bats-version:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+      # copy-paste this part for however many packs you want to build
+      - name: Build Pack
+        uses: Sorrowfall/Resource-Packager@main
+        with:
+          parts: # A list of directories to create the Resource Pack with
+            pack_data/
+            pack_textures/
+            # Directories take priority as they go down the list, replacing any files from the above directories
+          name: MyPack # The name of the Resource Pack
+          output-directory: build # What directory to save the Resource Pack in
+          optimize-jsons: true # Whether or not to optimize JSON file
+      # copy-paste down to here
+      - name: Publish
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: Builder[bot]
+          author_email: mail@unmail.com
+          branch: 'build'
+          branch_mode: create
+          message: 'Build pack(s)'
