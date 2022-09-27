@@ -1,5 +1,6 @@
 {
 	"recommendations": [
-		"spgoding.datapack-language-server"
+		"spgoding.datapack-language-server",
+		"oran9eutan.mcmodel-viewer"
 	]
 }
