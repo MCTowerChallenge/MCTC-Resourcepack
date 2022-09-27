@@ -59,13 +59,6 @@
         "custom_model_data":8
       },
       "model": "mctc:hats/winners"	
-    },
-    {
-      "predicate": 
-      {
-        "custom_model_data":9
-      },
-      "model": "mctc:hats/winners_colors"	
     }
   ]
 }
