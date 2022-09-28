@@ -23,3 +23,12 @@ jobs:
         git add -A
         git commit -m "new pack"
         git push --force
+    - name: Update Hash
+      env:
+        HOST: ${{ secrets.HOST }}
+        PORT: ${{ secrets.PORT }}
+        USERNAME: ${{ secrets.USERNAME }}
+        PASSWORD: ${{ secrets.PASSWORD }}
+      run: |
+        md5sum release.zip
+        
