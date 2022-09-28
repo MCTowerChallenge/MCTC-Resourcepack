@@ -2,6 +2,33 @@
   "providers": [
     {
       "type": "bitmap",
+      "file": "mctc:emotes/lafond2laflameda.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        "\uE103"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mctc:emotes/lafond2lovefonda.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        "\uE102"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mctc:emotes/benbyypog.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        "\uE101"
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "mctc:emotes/benbyyfire.png",
       "height": 8,
       "ascent": 8,
