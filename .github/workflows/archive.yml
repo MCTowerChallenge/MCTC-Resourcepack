@@ -27,9 +27,19 @@ jobs:
     - name: Update Hash
       env:
         HOST: ${{ secrets.HOST }}
-        PORT: ${{ secrets.PORT }}
         USERNAME: ${{ secrets.USERNAME }}
         PASSWORD: ${{ secrets.PASSWORD }}
       run: |
-        md5sum release.zip
-        
+        hash=$(sha1sum release.zip)
+        ftp -inv $HOST <<EOF
+        user $USERNAME $PASSWORD
+        get server.properties
+        bye
+        EOF
+        sed -i "/resource-pack-sha1=/c\resource-pack-sha1=$hash" server.properties
+        ftp -inv $HOST <<EOF
+        user $USERNAME $PASSWORD
+        mput server.properties
+        bye
+        EOF
+        rm server.properties
