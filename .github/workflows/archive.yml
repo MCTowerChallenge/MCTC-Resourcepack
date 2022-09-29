@@ -31,5 +31,16 @@ jobs:
         USERNAME: ${{ secrets.USERNAME }}
         PASSWORD: ${{ secrets.PASSWORD }}
       run: |
-        md5sum release.zip
-        
+        hash=$(sha1sum release.zip | cut -d " " -f 1)
+        pftp -inv $HOST $PORT <<EOF
+        user $USERNAME $PASSWORD
+        get server.properties
+        bye
+        EOF
+        sed -i "/resource-pack-sha1=/c\resource-pack-sha1=$hash" server.properties
+        pftp -inv $HOST $PORT <<EOF
+        user $USERNAME $PASSWORD
+        mput server.properties
+        bye
+        EOF
+        rm server.properties
