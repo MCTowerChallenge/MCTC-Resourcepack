@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/redstone_block",
+  "overrides": [
+    {
+        "predicate": 
+        {
+            "custom_model_data":0
+        },
+        "model": "mctc:gui/back_arrow"
+    }
+  ]
+}
