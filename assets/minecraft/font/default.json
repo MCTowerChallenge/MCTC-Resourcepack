@@ -38,6 +38,15 @@
     },
     {
       "type": "bitmap",
+      "file": "mctc:gui/questgui.png",
+      "height": 256,
+      "ascent": 13,
+      "chars": [
+        "\uE002"
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "mctc:gui/chestoverlay.png",
       "height": 256,
       "ascent": 13,

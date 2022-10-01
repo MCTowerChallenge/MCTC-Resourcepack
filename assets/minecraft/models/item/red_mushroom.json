@@ -25,12 +25,12 @@
     },
     "model": "mctc:decoration/headstones/headstone_4"
 },
-{
-  "predicate": 
-  {
-      "custom_model_data":5
-  },
-  "model": "mctc:decoration/headstones/headstone_5"
-}
+    {
+      "predicate": 
+      {
+          "custom_model_data":5
+      },
+      "model": "mctc:decoration/headstones/headstone_5"
+    }
   ]
 }
