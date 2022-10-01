@@ -4,9 +4,16 @@
     {
         "predicate": 
         {
-            "custom_model_data":0
+            "custom_model_data":1
         },
         "model": "mctc:gui/back_arrow"
+    },
+    {
+      "predicate": 
+      {
+          "custom_model_data":2
+      },
+      "model": "mctc:gui/x"
     }
   ]
 }
