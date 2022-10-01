@@ -14,16 +14,23 @@
     {
       "predicate": 
       {
-          "custom_model_data":4
+          "custom_model_data":3
       },
-      "model": "mctc:decoration/headstones/headstone_4"
+      "model": "mctc:decoration/headstones/headstone_3"
   },
   {
     "predicate": 
     {
-        "custom_model_data":5
+        "custom_model_data":4
     },
-    "model": "mctc:decoration/headstones/headstone_5"
+    "model": "mctc:decoration/headstones/headstone_4"
+},
+{
+  "predicate": 
+  {
+      "custom_model_data":5
+  },
+  "model": "mctc:decoration/headstones/headstone_5"
 }
   ]
 }
