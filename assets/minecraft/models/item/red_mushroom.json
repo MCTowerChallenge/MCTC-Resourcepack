@@ -14,6 +14,13 @@
     {
       "predicate": 
       {
+          "custom_model_data":2
+      },
+      "model": "mctc:decoration/headstones/dirt"
+    },
+    {
+      "predicate": 
+      {
           "custom_model_data":3
       },
       "model": "mctc:decoration/headstones/headstone_3"
@@ -38,6 +45,13 @@
           "custom_model_data":6
       },
       "model": "mctc:decoration/headstones/headstone_6"
+    },
+    {
+      "predicate": 
+      {
+          "custom_model_data":7
+      },
+      "model": "mctc:decoration/headstones/headstone_7"
     }
   ]
 }

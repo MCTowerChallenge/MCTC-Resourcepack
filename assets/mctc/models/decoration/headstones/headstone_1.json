@@ -3,7 +3,7 @@
 	"texture_size": [128, 128],
 	"textures": {
 		"0": "mctc:decoration/headstones/headstone_1",
-		"1": "block/coarse_dirt",
+		"1": "mctc:decoration/headstones/coarse_dirt",
 		"particle": "mctc:decoration/headstones/headstone_1"
 	},
 	"elements": [
