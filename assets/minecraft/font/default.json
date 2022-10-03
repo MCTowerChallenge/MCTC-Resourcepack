@@ -57,8 +57,8 @@
     {
       "type": "bitmap",
       "file": "mctc:font/title.png",
-      "height": 200,
-      "ascent": 0,
+      "height": 256,
+      "ascent": 72,
       "chars": [
         "\uE000"
       ]
