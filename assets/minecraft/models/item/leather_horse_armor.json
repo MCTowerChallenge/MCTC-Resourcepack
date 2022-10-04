@@ -61,6 +61,13 @@
       "model": "mctc:hats/winners"	
     },
     {
+      "predicate": 
+      {
+        "custom_model_data":9
+      },
+      "model": "mctc:hats/mysti_wings"	
+    },
+    {
       "predicate":
       {
         "custom_model_data":20
