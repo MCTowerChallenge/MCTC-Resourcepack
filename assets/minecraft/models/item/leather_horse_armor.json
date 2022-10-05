@@ -68,6 +68,13 @@
       "model": "mctc:hats/god_wings"	
     },
     {
+      "predicate": 
+      {
+        "custom_model_data":10
+      },
+      "model": "mctc:hats/mysti_wings"	
+    },
+    {
       "predicate":
       {
         "custom_model_data":20
