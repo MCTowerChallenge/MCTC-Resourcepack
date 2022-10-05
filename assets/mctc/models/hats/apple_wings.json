@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mctc:hats/aw_base",
+		"0": "mctc:hats/w_base",
 		"1": "mctc:hats/aw_wings",
 		"2": "mctc:hats/aw_flowers",
 		"3": "mctc:hats/aw_chains",
-		"particle": "mctc:hats/aw_base"
+		"particle": "mctc:hats/w_base"
 	},
 	"elements": [
 		{
