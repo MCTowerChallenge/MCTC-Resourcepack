@@ -75,6 +75,13 @@
       "model": "mctc:hats/mysti_wings"	
     },
     {
+      "predicate": 
+      {
+        "custom_model_data":11
+      },
+      "model": "mctc:hats/apple_wings"	
+    },
+    {
       "predicate":
       {
         "custom_model_data":20
