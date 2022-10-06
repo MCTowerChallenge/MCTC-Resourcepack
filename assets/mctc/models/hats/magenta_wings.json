@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mctc:hats/mw_base",
-		"1": "mctc:hats/mw_wings",
-		"2": "mctc:hats/mw_flowers",
-		"3": "mctc:hats/mw_chains",
-		"particle": "mctc:hats/mw_base"
+		"0": "mctc:hats/magw_base",
+		"1": "mctc:hats/magw_wings",
+		"2": "mctc:hats/magw_flowers",
+		"3": "mctc:hats/magw_chains",
+		"particle": "mctc:hats/magw_base"
 	},
 	"elements": [
 		{
