@@ -89,6 +89,13 @@
       "model": "mctc:hats/lea_wings"	
     },
     {
+      "predicate": 
+      {
+        "custom_model_data":13
+      },
+      "model": "mctc:hats/mysti_wings2"	
+    },
+    {
       "predicate":
       {
         "custom_model_data":20
