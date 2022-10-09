@@ -10,6 +10,13 @@
             "custom_model_data":1
         },
         "model": "mctc:wands/cow"
-    }
+    },
+    {
+      "predicate": 
+      {
+          "custom_model_data":2
+      },
+      "model": "mctc:wands/lightning"
+  }
   ]
 }
