@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "item/generated",
+	"parent": "item/bundle",
 	"textures": {
 		"layer0": "mctc:decoration/candy/candy_pumpkin_full"
 	},
