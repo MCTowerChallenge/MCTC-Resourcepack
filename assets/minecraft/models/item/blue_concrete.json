@@ -4,7 +4,7 @@
       {
           "predicate": 
           {
-              "custom_model_data":8
+              "custom_model_data":1
           },
           "model": "mctc:teams/blue"
       }
