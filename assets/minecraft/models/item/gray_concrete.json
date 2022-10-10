@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/gray_concrete",
+    "overrides": [
+      {
+          "predicate": 
+          {
+              "custom_model_data":9
+          },
+          "model": "mctc:teams/gray"
+      }
+    ]
+  }
