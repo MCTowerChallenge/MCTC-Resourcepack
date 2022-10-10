@@ -5,11 +5,9 @@
 		"layer0": "mctc:decoration/candy/candy_pumpkin"
 	},
 	"overrides": [
-		{
-			"predicate": {
-				"filled": 0
-			},
-			"model": "decoration/candy/candy_pumpkin_full"
+		{ 
+			"predicate": { "filled": 0.0000001 }, 
+			"model": "item/bundle_filled" 
 		}
 	],
 	"display": {
