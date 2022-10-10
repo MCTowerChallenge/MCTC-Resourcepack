@@ -1,12 +1,15 @@
 {
-    "parent": "minecraft:item/bundle_filled",
-    "overrides": [
+  "parent": "item/bundle",
+  "textures": {
+    "layer0": "item/bundle_filled"
+  },
+  "overrides": [
+    {
+      "predicate": 
       {
-          "predicate": 
-          {
-              "custom_model_data":1
-          },
-          "model": "mctc:decoration/candy/candy_pumpkin_full"
-      }
-    ]
-  }
+        "custom_model_data":0
+      },
+      "model": "mctc:decoration/candy/candy_pumpkin_full"
+    }
+  ]
+}
