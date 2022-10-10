@@ -17,6 +17,13 @@
         "custom_model_data":1
       },
       "model": "mctc:decoration/candy/candy_pillow_full"
+    },
+    {
+      "predicate": 
+      {
+        "custom_model_data":2
+      },
+      "model": "mctc:decoration/candy/candy_ghost_full"
     }
   ]
 }
