@@ -582,7 +582,7 @@
 		},
 		"gui": {
 			"rotation": [0, -156, 0],
-			"translation": [-1, -1, 0]
+			"translation": [-1.25, -1, 0]
 		},
 		"head": {
 			"translation": [0, 11.25, -1.5],
