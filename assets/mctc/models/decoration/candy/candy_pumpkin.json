@@ -9,7 +9,7 @@
 			"predicate": {
 				"filled": 0
 			},
-			"model": "item/candy_pumpkin_full"
+			"model": "decoration/candy/candy_pumpkin_full"
 		}
 	],
 	"display": {
