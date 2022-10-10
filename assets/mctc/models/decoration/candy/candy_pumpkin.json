@@ -7,7 +7,7 @@
 	"overrides": [
 		{ 
 			"predicate": { "filled": 0.0000001 }, 
-			"model": "item/bundle_filled" 
+			"model": "decoration/candy/candy_pumpkin_full" 
 		}
 	],
 	"display": {
