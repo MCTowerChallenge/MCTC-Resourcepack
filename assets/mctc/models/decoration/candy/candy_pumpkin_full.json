@@ -3,7 +3,7 @@
 	"parent": "item/bundle",
 	"textures": {
 		"layer0": "mctc:decoration/candy/candy_pumpkin_full"
-	},
+	}, 
 	"display": {
 		"thirdperson_righthand": {
 			"translation": [0, 3.5, 0],
