@@ -10,6 +10,41 @@
             "custom_model_data":1
         },
         "model": "mctc:decoration/candy/candy"
-    }
+    },
+    {
+      "predicate": 
+      {
+          "custom_model_data":2
+      },
+      "model": "mctc:decoration/candy/candypile1"
+  },
+  {
+    "predicate": 
+    {
+        "custom_model_data":3
+    },
+    "model": "mctc:decoration/candy/candypile2"
+},
+{
+  "predicate": 
+  {
+      "custom_model_data":4
+  },
+  "model": "mctc:decoration/candy/candypile3"
+},
+{
+  "predicate": 
+  {
+      "custom_model_data":5
+  },
+  "model": "mctc:decoration/candy/candypile4"
+},
+{
+  "predicate": 
+  {
+      "custom_model_data":6
+  },
+  "model": "mctc:decoration/candy/candypile5"
+}
   ]
 }
