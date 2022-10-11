@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "mctc:decoration/candy/lollipop2_solo"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 1.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 1.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 2.5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"translation": [0.75, -2.25, 0],
+			"scale": [1.51, 1.51, 1.51]
+		},
+		"fixed": {
+			"translation": [0.75, -2.25, 0],
+			"scale": [1.51, 1.51, 1.51]
+		}
+	}
+}
