@@ -268,6 +268,32 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0, -2],
+			"scale": [0.33, 0.33, 0.33]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 0, -2],
+			"scale": [0.33, 0.33, 0.33]
+		},
+		"ground": {
+			"translation": [0, 0.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, -0.75, -7.75]
+		},
+		"head": {
+			"translation": [0, 2.25, 0],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, -0.75, -7.75]
+		}
+	},
 	"groups": [
 		{
 			"name": "lollipop",
