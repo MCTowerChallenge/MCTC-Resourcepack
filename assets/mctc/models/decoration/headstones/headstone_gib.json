@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mctc:decoration/headstones/headstone_4",
-		"particle": "mctc:decoration/headstones/headstone_4"
+		"0": "mctc:decoration/headstones/headstone_gib",
+		"particle": "mctc:decoration/headstones/headstone_gib"
 	},
 	"elements": [
 		{

@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "mctc:decoration/headstones/headstone_1",
+		"0": "mctc:decoration/headstones/headstone_steve",
 		"1": "mctc:decoration/headstones/coarse_dirt",
-		"particle": "mctc:decoration/headstones/headstone_1"
+		"particle": "mctc:decoration/headstones/headstone_steve"
 	},
 	"elements": [
 		{

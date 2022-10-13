@@ -9,7 +9,7 @@
         {
             "custom_model_data":1
         },
-        "model": "mctc:decoration/headstones/headstone_1"
+        "model": "mctc:decoration/headstones/headstone_steve"
     },
     {
       "predicate": 
@@ -23,35 +23,133 @@
       {
           "custom_model_data":3
       },
-      "model": "mctc:decoration/headstones/headstone_3"
+      "model": "mctc:decoration/headstones/carb"
   },
   {
     "predicate": 
     {
         "custom_model_data":4
     },
-    "model": "mctc:decoration/headstones/headstone_4"
+    "model": "mctc:decoration/headstones/headstone_gib"
 },
     {
       "predicate": 
       {
           "custom_model_data":5
       },
-      "model": "mctc:decoration/headstones/headstone_5"
+      "model": "mctc:decoration/headstones/headstone_ht"
     },
     {
       "predicate": 
       {
           "custom_model_data":6
       },
-      "model": "mctc:decoration/headstones/headstone_6"
+      "model": "mctc:decoration/headstones/headstone_gk"
     },
     {
       "predicate": 
       {
           "custom_model_data":7
       },
-      "model": "mctc:decoration/headstones/headstone_7"
+      "model": "mctc:decoration/headstones/headstone_gib2"
+    },
+    {
+      "predicate": 
+      {
+          "custom_model_data":8
+      },
+      "model": "mctc:decoration/headstones/headstone_rip"
+    },
+    {
+      "predicate": 
+      {
+          "custom_model_data":9
+      },
+      "model": "mctc:decoration/headstones/headstone_rip2"
+    },
+    {
+      "predicate": 
+      {
+          "custom_model_data":10
+      },
+      "model": "mctc:decoration/headstones/headstone_short_rip"
+    },
+    {
+      "predicate": 
+      {
+          "custom_model_data":11
+      },
+      "model": "mctc:decoration/headstones/headstone_short_rip2"
+    },
+    {
+      "predicate": 
+      {
+          "custom_model_data":12
+      },
+      "model": "mctc:decoration/headstones/headstone_blank"
+    },
+    {
+      "predicate": 
+      {
+          "custom_model_data":13
+      },
+      "model": "mctc:decoration/headstones/headstone_short_blank"
+    },
+    {
+      "predicate": 
+      {
+          "custom_model_data":14
+      },
+      "model": "mctc:decoration/headstones/headstone_lafonda"
+    },
+    {
+      "predicate": 
+      {
+          "custom_model_data":15
+      },
+      "model": "mctc:decoration/headstones/headstone_oxylus"
+    },
+    {
+      "predicate": 
+      {
+          "custom_model_data":16
+      },
+      "model": "mctc:decoration/headstones/headstone_apple"
+    },
+    {
+      "predicate": 
+      {
+          "custom_model_data":17
+      },
+      "model": "mctc:decoration/headstones/headstone_mysti"
+    },
+    {
+      "predicate": 
+      {
+          "custom_model_data":18
+      },
+      "model": "mctc:decoration/headstones/headstone_noodles"
+    },
+    {
+      "predicate": 
+      {
+          "custom_model_data":19
+      },
+      "model": "mctc:decoration/headstones/headstone_howds"
+    },
+    {
+      "predicate": 
+      {
+          "custom_model_data":20
+      },
+      "model": "mctc:decoration/headstones/headstone_shork"
+    },
+    {
+      "predicate": 
+      {
+          "custom_model_data":21
+      },
+      "model": "mctc:decoration/headstones/headstone_zeen"
     }
   ]
 }

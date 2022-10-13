@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"1": "mctc:decoration/headstones/headstone_3",
-		"2": "mctc:decoration/headstones/h3_vine",
-		"particle": "mctc:decoration/headstones/headstone_3"
+		"1": "mctc:decoration/headstones/carb",
+		"2": "mctc:decoration/headstones/c_vine",
+		"particle": "mctc:decoration/headstones/carb"
 	},
 	"elements": [
 		{

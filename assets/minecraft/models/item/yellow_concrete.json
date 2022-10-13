@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/yellow_concrete",
+    "overrides": [
+      {
+          "predicate": 
+          {
+              "custom_model_data":1
+          },
+          "model": "mctc:teams/yellow_spooky"
+      }
+    ]
+  }
