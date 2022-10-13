@@ -1,12 +1,12 @@
 {
-    "parent": "minecraft:block/gray_concrete",
+    "parent": "minecraft:block/light_gray_concrete",
     "overrides": [
       {
           "predicate": 
           {
               "custom_model_data":1
           },
-          "model": "mctc:teams/gray_spooky"
+          "model": "mctc:teams/lightgray_spooky"
       }
     ]
   }
