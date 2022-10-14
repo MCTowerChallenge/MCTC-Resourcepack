@@ -2,6 +2,15 @@
   "providers": [
     {
       "type": "bitmap",
+      "file": "mctc:emotes/eyes.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        "\uE104"
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "mctc:emotes/lafond2laflameda.png",
       "height": 8,
       "ascent": 8,
