@@ -108,6 +108,13 @@
         "custom_model_data":21
       },
       "model": "mctc:hats/ghost_mask"
+    },
+    {
+      "predicate":
+      {
+        "custom_model_data":22
+      },
+      "model": "mctc:hats/birthdayboi"
     }
   ]
 }
