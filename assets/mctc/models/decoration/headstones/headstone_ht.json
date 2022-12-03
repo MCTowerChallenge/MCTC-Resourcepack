@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+  "gui_light": "front",
 	"textures": {
 		"2": "mctc:decoration/headstones/headstone_ht",
 		"particle": "mctc:decoration/headstones/headstone_ht"

@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+  "gui_light": "front",
 	"texture_size": [128, 128],
 	"textures": {
 		"0": "mctc:decoration/headstones/headstone_zeen",
