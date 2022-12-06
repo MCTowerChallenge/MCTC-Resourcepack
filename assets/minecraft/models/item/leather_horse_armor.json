@@ -115,6 +115,13 @@
         "custom_model_data":22
       },
       "model": "mctc:hats/birthdayboi"
+    },
+    {
+      "predicate":
+      {
+        "custom_model_data":23
+      },
+      "model": "mctc:hats/legs"
     }
   ]
 }
