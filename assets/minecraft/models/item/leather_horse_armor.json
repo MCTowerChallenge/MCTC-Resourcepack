@@ -122,6 +122,13 @@
         "custom_model_data":23
       },
       "model": "mctc:hats/legs"
+    },
+    {
+      "predicate":
+      {
+        "custom_model_data":24
+      },
+      "model": "mctc:hats/god_antlers"
     }
   ]
 }
