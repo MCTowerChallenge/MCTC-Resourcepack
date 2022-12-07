@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "mctc:teams/red_spooky"
+		"layer0": "mctc:teams/pink_winter"
 	},
 	"display": {
 		"thirdperson_righthand": {
