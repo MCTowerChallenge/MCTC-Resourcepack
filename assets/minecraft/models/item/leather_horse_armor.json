@@ -157,6 +157,20 @@
         "custom_model_data":28
       },
       "model": "mctc:hats/lea_antlers"
+    },
+    {
+      "predicate":
+      {
+        "custom_model_data":29
+      },
+      "model": "mctc:hats/apple_antlers"
+    },
+    {
+      "predicate":
+      {
+        "custom_model_data":30
+      },
+      "model": "mctc:hats/mysti_antlers"
     }
   ]
 }
