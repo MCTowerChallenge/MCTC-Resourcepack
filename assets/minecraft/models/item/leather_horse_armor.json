@@ -80,12 +80,20 @@
         "custom_model_data":12
       },
       "model": "mctc:hats/scarf2"
-    },{
+    },
+    {
       "predicate":
       {
         "custom_model_data":13
       },
       "model": "mctc:hats/floaty"
+    },
+    {
+      "predicate":
+      {
+        "custom_model_data":14
+      },
+      "model": "mctc:hats/cardinal"
     },
 
 
