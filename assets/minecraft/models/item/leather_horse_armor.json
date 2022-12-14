@@ -95,6 +95,20 @@
       },
       "model": "mctc:hats/cardinal"
     },
+    {
+      "predicate":
+      {
+        "custom_model_data":15
+      },
+      "model": "mctc:hats/earmuffs"
+    },
+    {
+      "predicate":
+      {
+        "custom_model_data":16
+      },
+      "model": "mctc:hats/snowi"
+    },
 
 
 
