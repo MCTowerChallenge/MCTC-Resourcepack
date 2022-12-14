@@ -109,6 +109,13 @@
       },
       "model": "mctc:hats/snowi"
     },
+    {
+      "predicate":
+      {
+        "custom_model_data":17
+      },
+      "model": "mctc:hats/arcticfox"
+    },
 
 
 
