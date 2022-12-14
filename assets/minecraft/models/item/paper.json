@@ -5,11 +5,18 @@
   },
   "overrides": [
     {
-        "predicate": 
-        {
-            "custom_model_data":1
-        },
-        "model": "mctc:gui/completed_quest"
+      "predicate": 
+      {
+        "custom_model_data":1
+      },
+      "model": "mctc:gui/completed_quest"
+    },
+    {
+      "predicate": 
+      {
+        "custom_model_data":2
+      },
+      "model": "mctc:gui/empty_slot"
     }
   ]
 }
