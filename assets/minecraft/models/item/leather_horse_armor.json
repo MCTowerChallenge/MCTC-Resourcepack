@@ -44,147 +44,189 @@
       {
         "custom_model_data":6
       },
-      "model": "mctc:hats/halo"	
+      "model": "mctc:hats/crown"
     },
     {
       "predicate": 
       {
         "custom_model_data":7
       },
-      "model": "mctc:hats/crown"
-    },
-    {
-      "predicate": 
-      {
-        "custom_model_data":8
-      },
-      "model": "mctc:hats/winners"	
-    },
-    {
-      "predicate": 
-      {
-        "custom_model_data":9
-      },
-      "model": "mctc:hats/god_wings"	
-    },
-    {
-      "predicate": 
-      {
-        "custom_model_data":10
-      },
-      "model": "mctc:hats/mysti_wings"	
-    },
-    {
-      "predicate": 
-      {
-        "custom_model_data":11
-      },
-      "model": "mctc:hats/apple_wings"	
-    },
-    {
-      "predicate": 
-      {
-        "custom_model_data":12
-      },
-      "model": "mctc:hats/lea_wings"	
-    },
-    {
-      "predicate": 
-      {
-        "custom_model_data":13
-      },
       "model": "mctc:hats/magenta_wings"	
     },
     {
       "predicate":
       {
-        "custom_model_data":20
-      },
-      "model": "mctc:decoration/colorborder"
-    },
-    {
-      "predicate":
-      {
-        "custom_model_data":21
+        "custom_model_data":8
       },
       "model": "mctc:hats/ghost_mask"
     },
     {
       "predicate":
       {
-        "custom_model_data":22
-      },
-      "model": "mctc:hats/birthdayboi"
-    },
-    {
-      "predicate":
-      {
-        "custom_model_data":23
-      },
-      "model": "mctc:hats/legs"
-    },
-    {
-      "predicate":
-      {
-        "custom_model_data":24
-      },
-      "model": "mctc:hats/carb"
-    },
-    {
-      "predicate":
-      {
-        "custom_model_data":25
-      },
-      "model": "mctc:hats/god_antlers"
-    },
-    {
-      "predicate":
-      {
-        "custom_model_data":26
-      },
-      "model": "mctc:hats/demigod_antlers"
-    },
-    {
-      "predicate":
-      {
-        "custom_model_data":27
+        "custom_model_data":10
       },
       "model": "mctc:hats/antlers"
     },
     {
       "predicate":
       {
-        "custom_model_data":28
-      },
-      "model": "mctc:hats/lea_antlers"
-    },
-    {
-      "predicate":
-      {
-        "custom_model_data":29
-      },
-      "model": "mctc:hats/apple_antlers"
-    },
-    {
-      "predicate":
-      {
-        "custom_model_data":30
-      },
-      "model": "mctc:hats/mysti_antlers"
-    },
-    {
-      "predicate":
-      {
-        "custom_model_data":31
+        "custom_model_data":11
       },
       "model": "mctc:hats/scarf"
     },
     {
       "predicate":
       {
-        "custom_model_data":32
+        "custom_model_data":12
       },
       "model": "mctc:hats/scarf2"
+    },
+
+
+
+
+
+    {
+      "predicate": 
+      {
+        "custom_model_data":800
+      },
+      "model": "mctc:hats/winners"	
+    },
+    {
+      "predicate":
+      {
+        "custom_model_data":801
+      },
+      "model": "mctc:hats/birthdayboi"
+    },
+    {
+      "predicate":
+      {
+        "custom_model_data":802
+      },
+      "model": "mctc:hats/legs"
+    },
+    {
+      "predicate":
+      {
+        "custom_model_data":803
+      },
+      "model": "mctc:hats/carb"
+    },
+
+
+
+
+
+    {
+      "predicate": 
+      {
+        "custom_model_data":900
+      },
+      "model": "mctc:hats/halo"	
+    },
+    {
+      "predicate": 
+      {
+        "custom_model_data":901
+      },
+      "model": "mctc:hats/god_wings"	
+    },
+    {
+      "predicate": 
+      {
+        "custom_model_data":902
+      },
+      "model": "mctc:hats/mysti_wings"	
+    },
+    {
+      "predicate": 
+      {
+        "custom_model_data":903
+      },
+      "model": "mctc:hats/apple_wings"	
+    },
+    {
+      "predicate": 
+      {
+        "custom_model_data":904
+      },
+      "model": "mctc:hats/lea_wings"	
+    },
+    {
+      "predicate":
+      {
+        "custom_model_data":905
+      },
+      "model": "mctc:hats/god_antlers"
+    },
+    {
+      "predicate":
+      {
+        "custom_model_data":906
+      },
+      "model": "mctc:hats/demigod_antlers"
+    },
+    {
+      "predicate":
+      {
+        "custom_model_data":907
+      },
+      "model": "mctc:hats/lea_antlers"
+    },
+    {
+      "predicate":
+      {
+        "custom_model_data":908
+      },
+      "model": "mctc:hats/apple_antlers"
+    },
+    {
+      "predicate":
+      {
+        "custom_model_data":909
+      },
+      "model": "mctc:hats/mysti_antlers"
+    },
+    
+
+
+
+    {
+      "predicate":
+      {
+        "custom_model_data":1000
+      },
+      "model": "mctc:decoration/colorborder"
+    },
+    {
+      "predicate": 
+      {
+        "custom_model_data":1001
+      },
+      "model": "mctc:decoration/presents/tall"	
+    },
+    {
+      "predicate": 
+      {
+        "custom_model_data":1002
+      },
+      "model": "mctc:decoration/presents/wide"	
+    },
+    {
+      "predicate": 
+      {
+        "custom_model_data":1003
+      },
+      "model": "mctc:decoration/presents/box"	
+    },
+    {
+      "predicate": 
+      {
+        "custom_model_data":1004
+      },
+      "model": "mctc:decoration/presents/flat"	
     }
   ]
 }
