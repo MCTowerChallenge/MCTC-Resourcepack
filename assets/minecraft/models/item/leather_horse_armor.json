@@ -171,6 +171,20 @@
         "custom_model_data":30
       },
       "model": "mctc:hats/mysti_antlers"
+    },
+    {
+      "predicate":
+      {
+        "custom_model_data":31
+      },
+      "model": "mctc:hats/scarf"
+    },
+    {
+      "predicate":
+      {
+        "custom_model_data":32
+      },
+      "model": "mctc:hats/scarf2"
     }
   ]
 }
