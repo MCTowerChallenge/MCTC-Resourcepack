@@ -216,19 +216,12 @@
       {
         "custom_model_data":908
       },
-      "model": "mctc:hats/apple_antlers"
+      "model": "mctc:hats/apple_antscarf"
     },
     {
       "predicate":
       {
         "custom_model_data":909
-      },
-      "model": "mctc:hats/mysti_antlers"
-    },
-    {
-      "predicate":
-      {
-        "custom_model_data":910
       },
       "model": "mctc:hats/mysti_antears"
     },
