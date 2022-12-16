@@ -263,6 +263,13 @@
         "custom_model_data":1004
       },
       "model": "mctc:decoration/presents/flat"	
+    },
+    {
+      "predicate": 
+      {
+        "custom_model_data":1005
+      },
+      "model": "mctc:wands/freezeray"	
     }
   ]
 }
