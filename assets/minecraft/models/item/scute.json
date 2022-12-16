@@ -1,57 +1,66 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-      "layer0": "minecraft:item/scute"
-    },
-    "overrides": [
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/scute"
+  },
+  "overrides": [
+    {
+      "predicate": 
       {
-          "predicate": 
-          {
-              "custom_model_data":1
-          },
-          "model": "mctc:decoration/candy/lollipop1_solo"
+        "custom_model_data":1
       },
-      {
-        "predicate": 
-        {
-            "custom_model_data":2
-        },
-        "model": "mctc:decoration/candy/lollipop2_solo"
+      "model": "mctc:decoration/candy/lollipop1_solo"
     },
     {
       "predicate": 
       {
-          "custom_model_data":3
+        "custom_model_data":2
+      },
+      "model": "mctc:decoration/candy/lollipop2_solo"
+    },
+    {
+      "predicate": 
+      {
+        "custom_model_data":3
       },
       "model": "mctc:decoration/candy/chocolate_solo"
-  },
-  {
-    "predicate": 
-    {
-        "custom_model_data":4
     },
-    "model": "mctc:decoration/candy/candycorn_solo"
-},
-{
-  "predicate": 
-  {
-      "custom_model_data":5
-  },
-  "model": "mctc:decoration/candy/kiss_solo"
-},
-{
-  "predicate": 
-  {
-      "custom_model_data":6
-  },
-  "model": "mctc:decoration/candy/candy1_solo"
-},
-{
-  "predicate": 
-  {
-      "custom_model_data":7
-  },
-  "model": "mctc:decoration/candy/candy2_solo"
+    {
+      "predicate": 
+      {
+        "custom_model_data":4
+      },
+      "model": "mctc:decoration/candy/candycorn_solo"
+    },
+    {
+      "predicate": 
+      {
+        "custom_model_data":5
+      },
+      "model": "mctc:decoration/candy/kiss_solo"
+    },
+    {
+      "predicate": 
+      {
+        "custom_model_data":6
+      },
+      "model": "mctc:decoration/candy/candy1_solo"
+    },
+    {
+      "predicate": 
+      {
+        "custom_model_data":7
+      },
+      "model": "mctc:decoration/candy/candy2_solo"
+    },
+
+
+    {
+      "predicate": 
+      {
+        "custom_model_data":10
+      },
+      "model": "mctc:decoration/presents/tall_red"
+    }
+  ]
 }
-    ]
-  }
