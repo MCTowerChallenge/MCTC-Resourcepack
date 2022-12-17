@@ -150,6 +150,13 @@
       },
       "model": "mctc:hats/carbtint"
     },
+    {
+      "predicate":
+      {
+        "custom_model_data":804
+      },
+      "model": "mctc:hats/goathorns"
+    },
 
 
 
