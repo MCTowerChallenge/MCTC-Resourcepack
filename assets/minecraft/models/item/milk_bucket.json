@@ -1,0 +1,29 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/milk_bucket"
+    },
+    "overrides": [
+      {
+          "predicate": 
+          {
+              "custom_model_data":1
+          },
+          "model": "mctc:decoration/food/hotchocolate"
+      }, 
+      {
+        "predicate": 
+        {
+            "custom_model_data":2
+        },
+        "model": "mctc:decoration/food/hotchocolate_whip"
+      }, 
+      {
+      "predicate": 
+      {
+          "custom_model_data":3
+      },
+      "model": "mctc:decoration/food/hotchocolate_marsh"
+      }
+        ]
+}
