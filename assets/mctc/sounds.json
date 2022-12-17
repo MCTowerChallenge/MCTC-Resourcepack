@@ -1,17 +1,89 @@
 {
   "notification": {
     "sounds": [
-        "mctc:notification"
+      "mctc:notification"
     ]
   },
   "suspense": {
     "sounds": [
-        "mctc:suspenseshort"
+      "mctc:suspenseshort"
     ]
   },
   "vine": {
     "sounds": [
-        "mctc:vine"
+      "mctc:vine"
+    ]
+  },
+  "spirit.dear_sibling": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/dear_sibling.louder",
+        "stream": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "spirit.find_me": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/find_me.louder",
+        "stream": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "spirit.foolish_humans": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/foolish_humans.louder",
+        "stream": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "spirit.frolic": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/frolic.louder",
+        "stream": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "spirit.presents_complete": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/presents_complete.louder",
+        "stream": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "spirit.presents_start": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/presents_start.louder",
+        "stream": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "spirit.return_the_sea": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/return_the_sea.louder",
+        "stream": true,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "spirit.until_next_time": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/until_next_time.louder",
+        "stream": true,
+        "attenuation_distance": 16
+      }
     ]
   },
   "steve.skelly1": {
