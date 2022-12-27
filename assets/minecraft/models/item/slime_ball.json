@@ -1,0 +1,21 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/slime_ball"
+  },
+  "overrides": [
+    {
+      "predicate": 
+      {
+        "custom_model_data":1
+      },
+      "model": "mctc:decoration/god/slime1"
+    },
+    {
+      "predicate": 
+      {
+        "custom_model_data":2
+      },
+      "model": "mctc:decoration/god/slime2"
+    },
+  ]}
