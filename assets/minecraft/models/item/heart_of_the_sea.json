@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/heart_of_the_sea"
+  },
+  "overrides": [
+    {
+        "predicate": 
+        {
+            "custom_model_data":1
+        },
+        "model": "mctc:decoration/ferriswheel/ferris_wheel_car"
+    },
+    {
+      "predicate": 
+      {
+          "custom_model_data":2
+      },
+      "model": "mctc:decoration/ferriswheel/ferris_wheel_hook"
+  }
+  ]
+}
