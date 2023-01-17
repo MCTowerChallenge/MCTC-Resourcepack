@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mctc:gui/icons/back_arrow"
+	},
+	"display": {
+		"gui": {
+			"scale": [1, 1, 1]
+		}
+	}
+}

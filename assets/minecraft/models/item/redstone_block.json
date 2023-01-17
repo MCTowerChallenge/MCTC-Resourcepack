@@ -6,14 +6,14 @@
         {
             "custom_model_data":1
         },
-        "model": "mctc:gui/back_arrow"
+        "model": "mctc:gui/icons/back_arrow"
     },
     {
       "predicate": 
       {
           "custom_model_data":2
       },
-      "model": "mctc:gui/x"
+      "model": "mctc:gui/icons/x"
     }
   ]
 }
