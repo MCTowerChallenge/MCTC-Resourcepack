@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "mctc:gui/back_arrow"
+		"layer0": "mctc:gui/icons/completed_quest"
 	},
 	"display": {
 		"gui": {

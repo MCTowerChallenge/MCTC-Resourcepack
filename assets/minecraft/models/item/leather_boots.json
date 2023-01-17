@@ -10,14 +10,14 @@
             {
                 "custom_model_data":1
             },
-            "model": "mctc:gui/left_arrow"
+            "model": "mctc:gui/icons/left_arrow"
         },
         {
             "predicate": 
             {
                 "custom_model_data":2
             },
-            "model": "mctc:gui/right_arrow"
+            "model": "mctc:gui/icons/right_arrow"
         }
     ]
 }

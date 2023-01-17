@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "mctc:gui/empty_slot"
+		"layer0": "mctc:gui/icons/empty_slot"
 	},
 	"display": {
 		"gui": {
