@@ -24,6 +24,20 @@
           "custom_model_data":3
       },
       "model": "mctc:decoration/food/heart_question"
+      }, 
+      {
+      "predicate": 
+      {
+          "custom_model_data":4
+      },
+      "model": "mctc:decoration/food/chocolates_box"
+      }, 
+      {
+      "predicate": 
+      {
+          "custom_model_data":5
+      },
+      "model": "mctc:decoration/food/chocolate_rose"
       }
         ]
 }
