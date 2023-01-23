@@ -116,6 +116,20 @@
       },
       "model": "mctc:hats/arcticfox"
     },
+    {
+      "predicate":
+      {
+        "custom_model_data":18
+      },
+      "model": "mctc:hats/carb_wings"
+    },
+    {
+      "predicate":
+      {
+        "custom_model_data":19
+      },
+      "model": "mctc:hats/carb_arrow"
+    },
     
 
 
