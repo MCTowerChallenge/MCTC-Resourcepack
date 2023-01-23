@@ -690,12 +690,20 @@
 			"translation": [-0.75, 4, 4],
 			"scale": [0.9, 0.9, 0.9]
 		},
+		"firstperson_righthand": {
+			"rotation": [10, 0, 0],
+			"translation": [1.25, 4.75, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [10, 0, 0],
+			"translation": [1.25, 4.75, 0]
+		},
 		"ground": {
 			"translation": [0, 4, 0]
 		},
 		"gui": {
 			"rotation": [27, -143, 0],
-			"translation": [-1.5, 5, 0]
+			"translation": [-1, 5, 0]
 		},
 		"head": {
 			"translation": [0, 14.25, -0.25]
