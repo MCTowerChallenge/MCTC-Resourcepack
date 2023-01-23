@@ -130,6 +130,13 @@
       },
       "model": "mctc:hats/carb_arrow"
     },
+    {
+      "predicate":
+      {
+        "custom_model_data":20
+      },
+      "model": "mctc:hats/carb_hearts"
+    },
     
 
 
