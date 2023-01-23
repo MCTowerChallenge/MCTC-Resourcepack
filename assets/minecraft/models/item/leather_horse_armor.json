@@ -137,6 +137,13 @@
       },
       "model": "mctc:hats/carb_hearts"
     },
+    {
+      "predicate":
+      {
+        "custom_model_data":21
+      },
+      "model": "mctc:hats/enderduck"
+    },
     
 
 
@@ -297,7 +304,7 @@
       {
         "custom_model_data":1005
       },
-      "model": "mctc:wands/freezeray"	
+      "model": "mctc:wands/freezeray"		
     }
   ]
 }
