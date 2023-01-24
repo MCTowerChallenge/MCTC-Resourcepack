@@ -305,6 +305,13 @@
         "custom_model_data":1005
       },
       "model": "mctc:wands/freezeray"		
+    },
+    {
+      "predicate":
+      {
+        "custom_model_data":1006
+      },
+      "model": "mctc:decoration/heart_colorborder"
     }
   ]
 }
