@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "mctc:hats/educk_head",
-		"2": "mctc:hats/educk_face",
-		"3": "mctc:hats/educk_body",
-		"4": "mctc:hats/educk_wings",
-		"particle": "mctc:hats/educk_body"
+		"1": "mctc:decoration/lovefair/educk_head",
+		"2": "mctc:decoration/lovefair/educk_face",
+		"3": "mctc:decoration/lovefair/educk_body",
+		"4": "mctc:decoration/lovefair/educk_wings",
+		"particle": "mctc:decoration/lovefair/educk_body"
 	},
 	"elements": [
 		{

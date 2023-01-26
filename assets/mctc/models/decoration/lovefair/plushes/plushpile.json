@@ -1,15 +1,15 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mctc:decoration/lovefair/plushes/carb",
-		"1": "mctc:decoration/lovefair/plushes/ch_base",
-		"2": "mctc:decoration/lovefair/plushes/ch_antennae",
-		"3": "mctc:decoration/lovefair/plushes/ch_hearts",
-		"4": "mctc:decoration/lovefair/plushes/wings",
-		"5": "mctc:decoration/lovefair/plushes/ca_base",
-		"6": "mctc:decoration/lovefair/plushes/ca_heart",
-		"7": "mctc:decoration/lovefair/plushes/ca_feather",
-		"particle": "mctc:decoration/lovefair/plushes/carb"
+		"0": "mctc:hats/carb",
+		"1": "mctc:hats/ch_base",
+		"2": "mctc:hats/ch_antennae",
+		"3": "mctc:hats/ch_hearts",
+		"4": "mctc:hats/wings",
+		"5": "mctc:hats/ca_base",
+		"6": "mctc:hats/ca_heart",
+		"7": "mctc:hats/ca_feather",
+		"particle": "mctc:hats/carb"
 	},
 	"elements": [
 		{
