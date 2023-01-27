@@ -1,20 +1,20 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mctc:decoration/lovebot/white_stained_glass",
-		"1": "mctc:decoration/lovebot/front2",
-		"2": "mctc:decoration/lovebot/top",
-		"3": "mctc:decoration/lovebot/eyes_closed",
-		"4": "mctc:decoration/lovebot/hat",
-		"5": "mctc:decoration/lovebot/wheels",
-		"6": "mctc:decoration/lovebot/sides",
-		"7": "mctc:decoration/lovebot/back",
-		"8": "mctc:decoration/lovebot/handle",
-		"9": "mctc:decoration/lovebot/rack",
-		"13": "mctc:decoration/lovebot/tongue_rack",
-		"14": "mctc:decoration/lovebot/tongue_tray",
-		"15": "mctc:decoration/lovebot/tongue_cookie_question",
-		"particle": "mctc:decoration/lovebot/white_stained_glass"
+		"0": "mctc:decoration/lovefair/lovebot/white_stained_glass",
+		"1": "mctc:decoration/lovefair/lovebot/front",
+		"2": "mctc:decoration/lovefair/lovebot/top",
+		"3": "mctc:decoration/lovefair/lovebot/eyes_closed",
+		"4": "mctc:decoration/lovefair/lovebot/hat",
+		"5": "mctc:decoration/lovefair/lovebot/wheels",
+		"6": "mctc:decoration/lovefair/lovebot/sides",
+		"7": "mctc:decoration/lovefair/lovebot/back",
+		"8": "mctc:decoration/lovefair/lovebot/handle",
+		"9": "mctc:decoration/lovefair/lovebot/rack",
+		"13": "mctc:decoration/lovefair/lovebot/tongue_rack",
+		"14": "mctc:decoration/lovefair/lovebot/tongue_tray",
+		"15": "mctc:decoration/lovefair/lovebot/tongue_cookie_question",
+		"particle": "mctc:decoration/lovefair/lovebot/white_stained_glass"
 	},
 	"elements": [
 		{

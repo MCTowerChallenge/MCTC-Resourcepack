@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "mctc:hats/carb",
-		"2": "mctc:hats/ca_base",
-		"3": "mctc:hats/ca_heart",
-		"4": "mctc:hats/ca_feather",
+		"2": "mctc:decoration/lovefair/plushes/ca_base",
+		"3": "mctc:decoration/lovefair/plushes/ca_heart",
+		"4": "mctc:decoration/lovefair/plushes/ca_feather",
 		"particle": "mctc:hats/carb"
 	},
 	"elements": [
