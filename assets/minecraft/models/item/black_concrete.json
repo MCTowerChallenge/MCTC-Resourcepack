@@ -1,12 +1,11 @@
 {
-    "parent": "minecraft:block/black_concrete",
-    "overrides": [
-      {
-          "predicate": 
-          {
-              "custom_model_data":1
-          },
-          "model": "mctc:teams/black_winter"
-      }
-    ]
-  }
+  "parent": "minecraft:block/black_concrete",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "mctc:teams/black_winter"
+    }
+  ]
+}

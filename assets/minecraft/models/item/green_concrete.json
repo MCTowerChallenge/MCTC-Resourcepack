@@ -2,11 +2,10 @@
   "parent": "minecraft:block/green_concrete",
   "overrides": [
     {
-        "predicate": 
-        {
-            "custom_model_data":1
-        },
-        "model": "mctc:teams/green_spooky"
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "mctc:teams/green_spooky"
     }
   ]
 }

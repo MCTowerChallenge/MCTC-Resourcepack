@@ -2,16 +2,14 @@
   "parent": "minecraft:block/redstone_block",
   "overrides": [
     {
-        "predicate": 
-        {
-            "custom_model_data":1
-        },
-        "model": "mctc:gui/icons/back_arrow"
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "mctc:gui/icons/back_arrow"
     },
     {
-      "predicate": 
-      {
-          "custom_model_data":2
+      "predicate": {
+        "custom_model_data": 2
       },
       "model": "mctc:gui/icons/x"
     }

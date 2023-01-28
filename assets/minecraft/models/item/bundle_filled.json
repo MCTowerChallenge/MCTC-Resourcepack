@@ -5,23 +5,20 @@
   },
   "overrides": [
     {
-      "predicate": 
-      {
-        "custom_model_data":0
+      "predicate": {
+        "custom_model_data": 1
       },
       "model": "mctc:decoration/candy/candy_pumpkin_full"
     },
     {
-      "predicate": 
-      {
-        "custom_model_data":1
+      "predicate": {
+        "custom_model_data": 2
       },
       "model": "mctc:decoration/candy/candy_pillow_full"
     },
     {
-      "predicate": 
-      {
-        "custom_model_data":2
+      "predicate": {
+        "custom_model_data": 3
       },
       "model": "mctc:decoration/candy/candy_ghost_full"
     }

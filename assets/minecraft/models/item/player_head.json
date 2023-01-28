@@ -2,11 +2,10 @@
   "parent": "minecraft:item/template_skull",
   "overrides": [
     {
-        "predicate": 
-        {
-            "custom_model_data":1
-        },
-        "model": "mctc:full_heads"
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "mctc:full_heads"
     }
   ]
 }

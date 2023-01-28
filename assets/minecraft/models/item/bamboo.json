@@ -5,11 +5,10 @@
   },
   "overrides": [
     {
-        "predicate": 
-        {
-            "custom_model_data":1
-        },
-        "model": "mctc:gui/icons/or"
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "mctc:gui/icons/or"
     }
   ]
 }

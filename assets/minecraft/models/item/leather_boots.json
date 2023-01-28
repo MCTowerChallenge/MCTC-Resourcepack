@@ -6,16 +6,14 @@
     },
     "overrides": [
         {
-            "predicate": 
-            {
-                "custom_model_data":1
+            "predicate": {
+                "custom_model_data": 1
             },
             "model": "mctc:gui/icons/left_arrow"
         },
         {
-            "predicate": 
-            {
-                "custom_model_data":2
+            "predicate": {
+                "custom_model_data": 2
             },
             "model": "mctc:gui/icons/right_arrow"
         }

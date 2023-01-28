@@ -1,12 +1,11 @@
 {
-    "parent": "minecraft:block/lime_concrete",
-    "overrides": [
-      {
-          "predicate": 
-          {
-              "custom_model_data":1
-          },
-          "model": "mctc:teams/lime_winter"
-      }
-    ]
-  }
+  "parent": "minecraft:block/lime_concrete",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "mctc:teams/lime_winter"
+    }
+  ]
+}

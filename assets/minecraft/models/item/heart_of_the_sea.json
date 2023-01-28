@@ -5,18 +5,16 @@
   },
   "overrides": [
     {
-        "predicate": 
-        {
-            "custom_model_data":1
-        },
-        "model": "mctc:decoration/ferriswheel/ferris_wheel_car"
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "mctc:decoration/ferriswheel/ferris_wheel_car"
     },
     {
-      "predicate": 
-      {
-          "custom_model_data":2
+      "predicate": {
+        "custom_model_data": 2
       },
       "model": "mctc:decoration/ferriswheel/ferris_wheel_hook"
-  }
+    }
   ]
 }

@@ -1,12 +1,11 @@
 {
-    "parent": "minecraft:block/cyan_concrete",
-    "overrides": [
-      {
-          "predicate": 
-          {
-              "custom_model_data":1
-          },
-          "model": "mctc:teams/cyan_winter"
-      }
-    ]
-  }
+  "parent": "minecraft:block/cyan_concrete",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "mctc:teams/cyan_winter"
+    }
+  ]
+}

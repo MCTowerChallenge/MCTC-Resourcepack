@@ -5,16 +5,14 @@
   },
   "overrides": [
     {
-      "predicate": 
-      {
-        "custom_model_data":1
+      "predicate": {
+        "custom_model_data": 1
       },
       "model": "mctc:item/god_book"
     },
     {
-      "predicate": 
-      {
-        "custom_model_data":2
+      "predicate": {
+        "custom_model_data": 2
       },
       "model": "mctc:item/quest_book"
     }

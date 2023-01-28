@@ -1,12 +1,11 @@
 {
-    "parent": "minecraft:block/light_gray_concrete",
-    "overrides": [
-      {
-          "predicate": 
-          {
-              "custom_model_data":1
-          },
-          "model": "mctc:teams/lightgray_winter"
-      }
-    ]
-  }
+  "parent": "minecraft:block/light_gray_concrete",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "mctc:teams/lightgray_winter"
+    }
+  ]
+}

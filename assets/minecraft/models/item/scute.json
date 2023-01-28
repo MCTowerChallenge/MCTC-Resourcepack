@@ -5,60 +5,50 @@
   },
   "overrides": [
     {
-      "predicate": 
-      {
-        "custom_model_data":1
+      "predicate": {
+        "custom_model_data": 1
       },
       "model": "mctc:decoration/candy/lollipop1_solo"
     },
     {
-      "predicate": 
-      {
-        "custom_model_data":2
+      "predicate": {
+        "custom_model_data": 2
       },
       "model": "mctc:decoration/candy/lollipop2_solo"
     },
     {
-      "predicate": 
-      {
-        "custom_model_data":3
+      "predicate": {
+        "custom_model_data": 3
       },
       "model": "mctc:decoration/candy/chocolate_solo"
     },
     {
-      "predicate": 
-      {
-        "custom_model_data":4
+      "predicate": {
+        "custom_model_data": 4
       },
       "model": "mctc:decoration/candy/candycorn_solo"
     },
     {
-      "predicate": 
-      {
-        "custom_model_data":5
+      "predicate": {
+        "custom_model_data": 5
       },
       "model": "mctc:decoration/candy/kiss_solo"
     },
     {
-      "predicate": 
-      {
-        "custom_model_data":6
+      "predicate": {
+        "custom_model_data": 6
       },
       "model": "mctc:decoration/candy/candy1_solo"
     },
     {
-      "predicate": 
-      {
-        "custom_model_data":7
+      "predicate": {
+        "custom_model_data": 7
       },
       "model": "mctc:decoration/candy/candy2_solo"
     },
-
-
     {
-      "predicate": 
-      {
-        "custom_model_data":10
+      "predicate": {
+        "custom_model_data": 10
       },
       "model": "mctc:decoration/presents/tall_red"
     }

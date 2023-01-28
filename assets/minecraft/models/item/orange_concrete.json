@@ -1,12 +1,11 @@
 {
-    "parent": "minecraft:block/orange_concrete",
-    "overrides": [
-      {
-          "predicate": 
-          {
-              "custom_model_data":1
-          },
-          "model": "mctc:teams/orange_winter"
-      }
-    ]
-  }
+  "parent": "minecraft:block/orange_concrete",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "mctc:teams/orange_winter"
+    }
+  ]
+}
