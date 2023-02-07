@@ -290,7 +290,7 @@
       "predicate": {
         "custom_model_data": 1016
       },
-      "model": "mctc:decoration/lovefair/bake"
+      "model": "mctc:decoration/lovefair/lovebot/bake"
     }
   ]
 }
