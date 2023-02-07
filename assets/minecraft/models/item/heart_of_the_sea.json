@@ -15,6 +15,66 @@
         "custom_model_data": 2
       },
       "model": "mctc:decoration/ferriswheel/ferris_wheel_hook"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "mctc:decoration/keys/hos_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "mctc:decoration/keys/hos_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "mctc:decoration/keys/hos_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "mctc:decoration/keys/hos_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "mctc:decoration/keys/hos_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "mctc:decoration/keys/hos_6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "mctc:decoration/keys/hos_7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "mctc:decoration/keys/hos_8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "mctc:decoration/keys/hos_9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "mctc:decoration/keys/hos_complete"
     }
   ]
 }
