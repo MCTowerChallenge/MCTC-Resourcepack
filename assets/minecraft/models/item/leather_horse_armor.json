@@ -286,5 +286,11 @@
       },
       "model": "mctc:decoration/lovefair/enderduck"
     }
+    {
+      "predicate": {
+        "custom_model_data": 1016
+      },
+      "model": "mctc:decoration/lovefair/bake"
+    }
   ]
 }
