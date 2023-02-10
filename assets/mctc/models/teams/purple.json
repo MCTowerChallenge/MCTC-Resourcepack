@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "mctc:teams/orange_winter"
+		"layer0": "mctc:teams/purple"
 	},
 	"display": {
 		"thirdperson_righthand": {
