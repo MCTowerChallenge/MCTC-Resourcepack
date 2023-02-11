@@ -14,26 +14,74 @@
       "mctc:vine"
     ]
   },
-  "steve.getuphere.1": {
+  "steve.get_up_here.1": {
     "sounds": [
       {
-        "name": "mctc:steve/feb2023/getuphere.1",
+        "name": "mctc:steve/feb2023/get_up_here.1",
         "stream": true
       }
     ]
   },
-  "steve.getuphere.2": {
+  "steve.get_up_here.2": {
     "sounds": [
       {
-        "name": "mctc:steve/feb2023/getuphere.2",
+        "name": "mctc:steve/feb2023/get_up_here.2",
         "stream": true
       }
     ]
   },
-  "steve.getuphere.3": {
+  "steve.get_up_here.3": {
     "sounds": [
       {
-        "name": "mctc:steve/feb2023/getuphere.3",
+        "name": "mctc:steve/feb2023/get_up_here.3",
+        "stream": true
+      }
+    ]
+  },
+  "steve.not_time_yet": {
+    "sounds": [
+      {
+        "name": "mctc:steve/feb2023/not_time_yet",
+        "stream": true
+      }
+    ]
+  },
+  "steve.little_cheater": {
+    "sounds": [
+      {
+        "name": "mctc:steve/feb2023/little_cheater",
+        "stream": true
+      }
+    ]
+  },
+  "steve.how_dare_you": {
+    "sounds": [
+      {
+        "name": "mctc:steve/feb2023/how_dare_you",
+        "stream": true
+      }
+    ]
+  },
+  "steve.door_not_open": {
+    "sounds": [
+      {
+        "name": "mctc:steve/feb2023/door_not_open",
+        "stream": true
+      }
+    ]
+  },
+  "steve.cant_get_down": {
+    "sounds": [
+      {
+        "name": "mctc:steve/feb2023/cant_get_down",
+        "stream": true
+      }
+    ]
+  },
+  "steve.old_bones": {
+    "sounds": [
+      {
+        "name": "mctc:steve/feb2023/old_bones",
         "stream": true
       }
     ]
