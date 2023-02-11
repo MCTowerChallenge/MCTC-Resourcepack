@@ -1,14 +1,14 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-      "layer0": "minecraft:item/spectral_arrow"
-    },
-    "overrides": [
-      {
-        "predicate": {
-          "custom_model_data": 1
-        },
-        "model": "mctc:decoration/keys/arrow"
-      }
-    ]
-  }
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/spectral_arrow"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "mctc:decoration/keys/arrow"
+    }
+  ]
+}

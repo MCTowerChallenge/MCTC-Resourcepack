@@ -14,237 +14,51 @@
       "mctc:vine"
     ]
   },
-  "spirit.dear_sibling": {
+  "steve.getuphere.1": {
     "sounds": [
       {
-        "name": "mctc:spirit/dear_sibling.louder",
-        "stream": true,
-        "attenuation_distance": 16
+        "name": "mctc:steve/feb2023/getuphere.1",
+        "stream": true
       }
     ]
   },
-  "spirit.find_me": {
+  "steve.getuphere.2": {
     "sounds": [
       {
-        "name": "mctc:spirit/find_me.louder",
-        "stream": true,
-        "attenuation_distance": 16
+        "name": "mctc:steve/feb2023/getuphere.2",
+        "stream": true
       }
     ]
   },
-  "spirit.foolish_humans": {
+  "steve.getuphere.3": {
     "sounds": [
       {
-        "name": "mctc:spirit/foolish_humans.louder",
-        "stream": true,
-        "attenuation_distance": 16
+        "name": "mctc:steve/feb2023/getuphere.3",
+        "stream": true
       }
     ]
   },
-  "spirit.frolic": {
+  "steve.hmm": {
     "sounds": [
       {
-        "name": "mctc:spirit/frolic.louder",
-        "stream": true,
-        "attenuation_distance": 16
+        "name": "mctc:steve/hmm",
+        "stream": true
       }
     ]
   },
-  "spirit.presents_complete": {
+  "steve.wait": {
     "sounds": [
       {
-        "name": "mctc:spirit/presents_complete.louder",
-        "stream": true,
-        "attenuation_distance": 16
+        "name": "mctc:steve/wait",
+        "stream": true
       }
     ]
   },
-  "spirit.presents_start": {
+  "steve.yes": {
     "sounds": [
       {
-        "name": "mctc:spirit/presents_start.louder",
-        "stream": true,
-        "attenuation_distance": 16
-      }
-    ]
-  },
-  "spirit.return_the_sea": {
-    "sounds": [
-      {
-        "name": "mctc:spirit/return_the_sea.louder",
-        "stream": true,
-        "attenuation_distance": 16
-      }
-    ]
-  },
-  "spirit.until_next_time": {
-    "sounds": [
-      {
-        "name": "mctc:spirit/until_next_time.louder",
-        "stream": true,
-        "attenuation_distance": 16
-      }
-    ]
-  },
-  "steve.skelly1": {
-    "sounds": [
-      {
-        "name": "mctc:steve/skelly1",
-        "stream": true,
-        "attenuation_distance": 16
-      }
-    ]
-  },
-  "steve.skelly2": {
-    "sounds": [
-      {
-        "name": "mctc:steve/skelly2",
-        "stream": true,
-        "attenuation_distance": 16
-      }
-    ]
-  },
-  "steve.skelly3": {
-    "sounds": [
-      {
-        "name": "mctc:steve/skelly3",
-        "stream": true,
-        "attenuation_distance": 16
-      }
-    ]
-  },
-  "steve.skelly4": {
-    "sounds": [
-      {
-        "name": "mctc:steve/skelly4",
-        "stream": true,
-        "attenuation_distance": 16
-      }
-    ]
-  },
-  "steve.skelly5": {
-    "sounds": [
-      {
-        "name": "mctc:steve/skelly5",
-        "stream": true,
-        "attenuation_distance": 16
-      }
-    ]
-  },
-  "steve.skelly6": {
-    "sounds": [
-      {
-        "name": "mctc:steve/skelly6",
-        "stream": true,
-        "attenuation_distance": 16
-      }
-    ]
-  },
-  "steve.skelly7": {
-    "sounds": [
-      {
-        "name": "mctc:steve/skelly7",
-        "stream": true,
-        "attenuation_distance": 16
-      }
-    ]
-  },
-  "steve.skelly8": {
-    "sounds": [
-      {
-        "name": "mctc:steve/skelly8",
-        "stream": true,
-        "attenuation_distance": 16
-      }
-    ]
-  },
-  "steve.skelly9": {
-    "sounds": [
-      {
-        "name": "mctc:steve/skelly9",
-        "stream": true,
-        "attenuation_distance": 16
-      }
-    ]
-  },
-  "steve.skelly10": {
-    "sounds": [
-      {
-        "name": "mctc:steve/skelly10",
-        "stream": true,
-        "attenuation_distance": 16
-      }
-    ]
-  },
-  "steve.skelly11": {
-    "sounds": [
-      {
-        "name": "mctc:steve/skelly11",
-        "stream": true,
-        "attenuation_distance": 16
-      }
-    ]
-  },
-  "steve.skelly12": {
-    "sounds": [
-      {
-        "name": "mctc:steve/skelly12",
-        "stream": true,
-        "attenuation_distance": 16
-      }
-    ]
-  },
-  "steve.skelly13": {
-    "sounds": [
-      {
-        "name": "mctc:steve/skelly13",
-        "stream": true,
-        "attenuation_distance": 16
-      }
-    ]
-  },
-  "steve.skelly14": {
-    "sounds": [
-      {
-        "name": "mctc:steve/skelly14",
-        "stream": true,
-        "attenuation_distance": 16
-      }
-    ]
-  },
-  "steve.skelly15": {
-    "sounds": [
-      {
-        "name": "mctc:steve/skelly15",
-        "stream": true,
-        "attenuation_distance": 16
-      }
-    ]
-  },
-  "steve.skellyhmm": {
-    "sounds": [
-      {
-        "name": "mctc:steve/skellyhmm",
-        "stream": true,
-        "attenuation_distance": 16
-      }
-    ]
-  },
-  "steve.skellywait": {
-    "sounds": [
-      {
-        "name": "mctc:steve/skellywait",
-        "stream": true,
-        "attenuation_distance": 16
-      }
-    ]
-  },
-  "steve.skellyyes": {
-    "sounds": [
-      {
-        "name": "mctc:steve/skellyyes",
-        "stream": true,
-        "attenuation_distance": 16
+        "name": "mctc:steve/yes",
+        "stream": true
       }
     ]
   }

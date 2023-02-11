@@ -1,4 +1,2 @@
 #!/bin/bash
-for f in ./*.ogg; do
-  ffmpeg -i "$f" "${f%.wav}.ogg"
-done
+find sounds -type f -exec ffmpeg -i {} "{}.wav" \; > results.out
