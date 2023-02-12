@@ -27,6 +27,66 @@
         "custom_model_data": 4
       },
       "model": "mctc:gui/icons/developer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "mctc:gui/icons/on"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "mctc:gui/icons/off"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "mctc:gui/icons/nether"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "mctc:gui/icons/end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "mctc:gui/icons/starter"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "mctc:gui/icons/add"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "mctc:gui/icons/add_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "mctc:gui/icons/hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "mctc:gui/icons/hat_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "mctc:gui/icons/ferris_reload"
     }
   ]
 }
