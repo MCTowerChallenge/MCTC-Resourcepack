@@ -108,6 +108,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "mctc:hats/alien"
+    },
+    {
+      "predicate": {
         "custom_model_data": 800
       },
       "model": "mctc:hats/winners"
