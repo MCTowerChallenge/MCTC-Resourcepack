@@ -5,19 +5,19 @@
         "predicate": {
           "custom_model_data": 1
         },
-        "model": "mctc:teams/lock_arrow"
+        "model": "mctc:decoration/keys/lock_arrow"
       },
       {
         "predicate": {
           "custom_model_data": 2
         },
-        "model": "mctc:teams/lock_maze"
+        "model": "mctc:decoration/keys/lock_feather"
       },
       {
         "predicate": {
           "custom_model_data": 3
         },
-        "model": "mctc:teams/lock_hos"
+        "model": "mctc:decoration/keys/lock_hos"
       }
     ]
   }
