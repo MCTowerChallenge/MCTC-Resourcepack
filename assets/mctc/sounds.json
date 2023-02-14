@@ -86,6 +86,78 @@
       }
     ]
   },
+  "steve.saving_me": {
+    "sounds": [
+      {
+        "name": "mctc:steve/feb2023/saving_me",
+        "stream": true
+      }
+    ]
+  },
+  "steve.sea_pickle": {
+    "sounds": [
+      {
+        "name": "mctc:steve/feb2023/sea_pickle",
+        "stream": true
+      }
+    ]
+  },
+  "steve.open_door_for_months": {
+    "sounds": [
+      {
+        "name": "mctc:steve/feb2023/open_door_for_months",
+        "stream": true
+      }
+    ]
+  },
+  "steve.almost_forgor": {
+    "sounds": [
+      {
+        "name": "mctc:steve/feb2023/almost_forgor",
+        "stream": true
+      }
+    ]
+  },
+  "steve.horseshoe": {
+    "sounds": [
+      {
+        "name": "mctc:steve/feb2023/horseshoe",
+        "stream": true
+      }
+    ]
+  },
+  "steve.shiny_state": {
+    "sounds": [
+      {
+        "name": "mctc:steve/feb2023/shiny_state",
+        "stream": true
+      }
+    ]
+  },
+  "steve.boney_fingers": {
+    "sounds": [
+      {
+        "name": "mctc:steve/feb2023/boney_fingers",
+        "stream": true
+      }
+    ]
+  },
+  "steve.back_to_buttstallion": {
+    "sounds": [
+      {
+        "name": "mctc:steve/feb2023/back_to_buttstallion",
+        "stream": true
+      }
+    ]
+  },
+  "steve.on_my_own": {
+    "sounds": [
+      {
+        "name": "mctc:steve/feb2023/on_my_own",
+        "stream": true
+      }
+    ]
+  },
   "steve.hmm": {
     "sounds": [
       {
