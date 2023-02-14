@@ -102,6 +102,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "mctc:hats/arrow"
+    },
+    {
+      "predicate": {
         "custom_model_data": 800
       },
       "model": "mctc:hats/winners"

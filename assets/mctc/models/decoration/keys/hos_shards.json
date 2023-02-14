@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mctc:decoration/keys/hos_shards"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0.5, 3.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0.5, 3.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -80, 0],
+			"translation": [0.5, 3.25, 0.25],
+			"scale": [0.59, 0.59, 0.59]
+		}
+	}
+}

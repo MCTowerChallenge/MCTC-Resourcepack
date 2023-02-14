@@ -74,29 +74,11 @@
       "predicate": {
         "custom_model_data": 12
       },
-      "model": "mctc:gui/icons/hat"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 13
-      },
-      "model": "mctc:gui/icons/hat_2"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 14
-      },
       "model": "mctc:gui/icons/ferris_reload"
     },
     {
       "predicate": {
-        "custom_model_data": 15
-      },
-      "model": "mctc:gui/icons/developer_2"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 16
+        "custom_model_data": 13
       },
       "model": "mctc:gui/icons/logistics"
     }

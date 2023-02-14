@@ -1,0 +1,23 @@
+{
+    "parent": "minecraft:block/obsidian",
+    "overrides": [
+      {
+        "predicate": {
+          "custom_model_data": 1
+        },
+        "model": "mctc:teams/lock_arrow"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 2
+        },
+        "model": "mctc:teams/lock_maze"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 3
+        },
+        "model": "mctc:teams/lock_hos"
+      }
+    ]
+  }
