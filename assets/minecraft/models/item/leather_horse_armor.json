@@ -198,6 +198,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 910
+      },
+      "model": "mctc:hats/mysti_wingears"
+    },
+    {
+      "predicate": {
         "custom_model_data": 1000
       },
       "model": "mctc:decoration/colorborder"
