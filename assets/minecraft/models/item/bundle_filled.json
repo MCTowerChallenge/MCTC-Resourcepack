@@ -21,6 +21,30 @@
         "custom_model_data": 3
       },
       "model": "mctc:decoration/candy/candy_ghost_full"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "mctc:decoration/keys/shell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "mctc:decoration/keys/shell_full"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "mctc:decoration/keys/merbag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "mctc:decoration/keys/merbag_full"
     }
   ]
 }
