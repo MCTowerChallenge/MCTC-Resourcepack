@@ -51,19 +51,21 @@
     },
     {
       "predicate": {
-        "custom_model_data": 5
+        "filled": 0.0000001,
+        "custom_model_data": 4
       },
       "model": "mctc:decoration/keys/shell_full"
     },
     {
       "predicate": {
-        "custom_model_data": 6
+        "custom_model_data": 5
       },
       "model": "mctc:decoration/keys/merbag"
     },
     {
       "predicate": {
-        "custom_model_data": 7
+        "filled": 0.0000001,
+        "custom_model_data": 5
       },
       "model": "mctc:decoration/keys/merbag_full"
     }
