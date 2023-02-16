@@ -144,6 +144,18 @@
     },
     {
       "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "mctc:hats/poppy"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "mctc:hats/anim_heartcrown"
+    },
+    {
+      "predicate": {
         "custom_model_data": 800
       },
       "model": "mctc:hats/winners"
