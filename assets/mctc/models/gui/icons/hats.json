@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "mctc:gui/icons/hat"
+		"layer0": "mctc:gui/icons/hats"
 	}
 }
