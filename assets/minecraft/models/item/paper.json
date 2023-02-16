@@ -81,6 +81,30 @@
         "custom_model_data": 13
       },
       "model": "mctc:gui/icons/logistics"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "mctc:gui/icons/hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "mctc:gui/icons/tower"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "mctc:gui/icons/model_browser"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "mctc:gui/icons/magic"
     }
   ]
 }

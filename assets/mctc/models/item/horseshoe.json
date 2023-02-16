@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mctc:decoration/lovefair/horseshoe"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [93, 90, -33],
+			"translation": [0, 1.75, -0.5],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [93, 90, -33],
+			"translation": [0, 1.75, -0.5],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"ground": {
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}
