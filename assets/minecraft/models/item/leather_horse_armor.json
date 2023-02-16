@@ -114,6 +114,36 @@
     },
     {
       "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "mctc:hats/wings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "mctc:hats/sunglasses_up"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "mctc:hats/sunglasses_mid"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "mctc:hats/sunglasses_low"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "mctc:hats/anim_hearts"
+    },
+    {
+      "predicate": {
         "custom_model_data": 800
       },
       "model": "mctc:hats/winners"
