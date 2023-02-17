@@ -258,6 +258,18 @@
     },
     {
       "predicate": {
+        "custom_model_data": 911
+      },
+      "model": "mctc:hats/anim_gods"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 912
+      },
+      "model": "mctc:hats/anim_gods2"
+    },
+    {
+      "predicate": {
         "custom_model_data": 1000
       },
       "model": "mctc:decoration/colorborder"
