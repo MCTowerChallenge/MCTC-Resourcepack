@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/barrel",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "mctc:decoration/misc/crate"
+    }
+  ]
+}
