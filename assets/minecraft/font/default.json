@@ -37,6 +37,13 @@
     },
     {
       "type": "bitmap",
+      "file": "mctc:font/scratched.png",
+      "height": 25,
+      "ascent": 17,
+      "chars": ["\uE050"]
+    },
+    {
+      "type": "bitmap",
       "file": "mctc:gui/questgui_v3.png",
       "height": 228,
       "ascent": 19,
