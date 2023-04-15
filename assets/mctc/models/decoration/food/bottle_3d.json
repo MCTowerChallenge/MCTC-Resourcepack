@@ -3,7 +3,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "mctc:decoration/food/bottle_3d",
-		"1": "block/oak_planks",
+		"1": "mctc:decoration/food/oak_planks",
 		"particle": "mctc:decoration/food/bottle_3d"
 	},
 	"elements": [
