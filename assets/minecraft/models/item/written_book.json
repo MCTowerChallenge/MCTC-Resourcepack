@@ -1,16 +1,17 @@
 {
-    "overrides": [
-      {
-        "predicate": {
-          "custom_model_data": 1
-        },
-        "model": "mctc:decoration/bachelorinvite/fridge"
+  "parent": "minecraft:item/generated",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
       },
-      {
-        "predicate": {
-          "custom_model_data": 2
-        },
-        "model": "mctc:decoration/bachelorinvite/invite"
-      }
-    ]
-  }
+      "model": "mctc:decoration/bachelorinvite/fridge"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "mctc:decoration/bachelorinvite/invite"
+    }
+  ]
+}
