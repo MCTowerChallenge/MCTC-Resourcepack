@@ -16,6 +16,12 @@
                 "custom_model_data": 2
             },
             "model": "mctc:decoration/food/bottle_3d_rainbow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "mctc:decoration/food/rainbow_tpotion"
         }
     ]
 }
