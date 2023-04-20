@@ -44,6 +44,13 @@
     },
     {
       "type": "bitmap",
+      "file": "mctc:gui/quest/nether_heart.png",
+      "height": 113,
+      "ascent": 7,
+      "chars": ["\uE004"]
+    },
+    {
+      "type": "bitmap",
       "file": "mctc:gui/questgui_v3.png",
       "height": 228,
       "ascent": 19,
