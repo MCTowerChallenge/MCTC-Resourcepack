@@ -14,6 +14,142 @@
       "mctc:vine"
     ]
   },
+  "spirit.any-time": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/apr2023/any-time",
+        "stream": true
+      }
+    ]
+  },
+  "spirit.bite-apple": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/apr2023/bite-apple",
+        "stream": true
+      }
+    ]
+  },
+  "spirit.carried-away": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/apr2023/carried-away",
+        "stream": true
+      }
+    ]
+  },
+  "spirit.enchantment-area": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/apr2023/enchantment-area",
+        "stream": true
+      }
+    ]
+  },
+  "spirit.found-steve": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/apr2023/found-steve",
+        "stream": true
+      }
+    ]
+  },
+  "spirit.gather-materials": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/apr2023/gather-materials",
+        "stream": true
+      }
+    ]
+  },
+  "spirit.good-run": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/apr2023/good-run",
+        "stream": true
+      }
+    ]
+  },
+  "spirit.grab-antidote": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/apr2023/grab-antidote",
+        "stream": true
+      }
+    ]
+  },
+  "spirit.grocery-list": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/apr2023/grocery-list",
+        "stream": true
+      }
+    ]
+  },
+  "spirit.leaving-hints": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/apr2023/leaving-hints",
+        "stream": true
+      }
+    ]
+  },
+  "spirit.limited-time": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/apr2023/limited-time",
+        "stream": true
+      }
+    ]
+  },
+  "spirit.mushroom-lamp": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/apr2023/mushroom-lamp",
+        "stream": true
+      }
+    ]
+  },
+  "spirit.one-second": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/apr2023/one-second",
+        "stream": true
+      }
+    ]
+  },
+  "spirit.steve-acting": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/apr2023/steve-acting",
+        "stream": true
+      }
+    ]
+  },
+  "spirit.too-far": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/apr2023/too-far",
+        "stream": true
+      }
+    ]
+  },
+  "spirit.will-you-help": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/apr2023/will-you-help",
+        "stream": true
+      }
+    ]
+  },
+  "spirit.work-quickly": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/apr2023/work-quickly",
+        "stream": true
+      }
+    ]
+  },
   "steve.all_need_to_do": {
     "sounds": [
       {
