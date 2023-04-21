@@ -150,6 +150,22 @@
       }
     ]
   },
+  "spirit.as-for-groom": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/apr2023/as-for-groom",
+        "stream": true
+      }
+    ]
+  },
+  "spirit.not-discrete": {
+    "sounds": [
+      {
+        "name": "mctc:spirit/apr2023/not-discrete",
+        "stream": true
+      }
+    ]
+  },
   "steve.all_need_to_do": {
     "sounds": [
       {
