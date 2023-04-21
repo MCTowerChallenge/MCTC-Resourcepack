@@ -186,6 +186,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "mctc:hats/sprout"
+    },
+    {
+      "predicate": {
         "custom_model_data": 800
       },
       "model": "mctc:hats/winners"
