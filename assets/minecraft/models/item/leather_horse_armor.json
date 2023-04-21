@@ -180,6 +180,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "mctc:hats/flower_antlers"
+    },
+    {
+      "predicate": {
         "custom_model_data": 800
       },
       "model": "mctc:hats/winners"
