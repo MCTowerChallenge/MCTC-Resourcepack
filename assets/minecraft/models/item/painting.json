@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/painting"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "mctc:decoration/pictures/butt_stallion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "mctc:decoration/pictures/jim_bo"
+    }
+  ]
+}
