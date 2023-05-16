@@ -21,42 +21,6 @@
         "custom_model_data": 3
       },
       "model": "mctc:decoration/food/hotchocolate_marsh"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 4
-      },
-      "model": "mctc:decoration/food/icecream_vanilla_gay"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 5
-      },
-      "model": "mctc:decoration/food/icecream_vanilla_carb"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6
-      },
-      "model": "mctc:decoration/food/icecream_chocolate_gay"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 7
-      },
-      "model": "mctc:decoration/food/icecream_chocolate_carb"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 8
-      },
-      "model": "mctc:decoration/food/icecream_strawberry_gay"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9
-      },
-      "model": "mctc:decoration/food/icecream_strawberry_carb"
     }
   ]
 }
