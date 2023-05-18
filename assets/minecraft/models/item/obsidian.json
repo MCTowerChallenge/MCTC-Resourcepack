@@ -18,6 +18,12 @@
           "custom_model_data": 3
         },
         "model": "mctc:decoration/keys/lock_hos"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 4
+        },
+        "model": "mctc:decoration/shooting/shooting_wolf"
       }
     ]
   }
