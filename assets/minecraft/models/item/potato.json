@@ -69,6 +69,36 @@
             "custom_model_data": 11
           },
           "model": "mctc:decoration/food/icecream_strawberry_carb"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 12
+          },
+          "model": "mctc:decoration/food/tortilla_stack"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 13
+          },
+          "model": "mctc:decoration/food/guac"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 14
+          },
+          "model": "mctc:decoration/food/guacside"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 15
+          },
+          "model": "mctc:decoration/food/lettuce"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 16
+          },
+          "model": "mctc:decoration/food/fish_taco"
         }
     ]
 }

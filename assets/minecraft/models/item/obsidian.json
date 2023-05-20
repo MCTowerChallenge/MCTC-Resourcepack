@@ -23,7 +23,43 @@
         "predicate": {
           "custom_model_data": 4
         },
-        "model": "mctc:decoration/shooting/shooting_wolf"
+        "model": "mctc:decoration/gallery/g_wolf"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 5
+        },
+        "model": "mctc:decoration/gallery/g_wolfsheep"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 6
+        },
+        "model": "mctc:decoration/gallery/g_whitesheep"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 7
+        },
+        "model": "mctc:decoration/gallery/g_blacksheep"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8
+        },
+        "model": "mctc:decoration/gallery/g_blackcow"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 9
+        },
+        "model": "mctc:decoration/gallery/g_browncow"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10
+        },
+        "model": "mctc:decoration/gallery/g_chicken"
       }
     ]
   }
