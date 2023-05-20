@@ -15,6 +15,12 @@
         "custom_model_data": 2
       },
       "model": "mctc:wands/lightning"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "mctc:hats/pride_handflag"
     }
   ]
 }
