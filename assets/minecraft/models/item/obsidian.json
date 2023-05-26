@@ -60,6 +60,12 @@
           "custom_model_data": 10
         },
         "model": "mctc:decoration/gallery/g_chicken"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 11
+        },
+        "model": "mctc:decoration/stage/stage_light"
       }
     ]
   }
