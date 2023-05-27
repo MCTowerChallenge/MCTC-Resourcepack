@@ -65,7 +65,13 @@
         "predicate": {
           "custom_model_data": 11
         },
-        "model": "mctc:decoration/stage/stage_light"
+        "model": "mctc:decoration/pride23/stage_light"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 12
+        },
+        "model": "mctc:decoration/pride23/gaycarb"
       }
     ]
   }
