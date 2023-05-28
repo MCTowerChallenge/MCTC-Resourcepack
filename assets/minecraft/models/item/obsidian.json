@@ -72,6 +72,54 @@
           "custom_model_data": 12
         },
         "model": "mctc:decoration/pride23/gaycarb"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 13
+        },
+        "model": "mctc:decoration/pride23/towel_sapphic"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 14
+        },
+        "model": "mctc:decoration/pride23/towel_achillean"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 15
+        },
+        "model": "mctc:decoration/pride23/towel_abrosexual"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 16
+        },
+        "model": "mctc:decoration/pride23/towel_pomosexual"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 17
+        },
+        "model": "mctc:decoration/pride23/towel_demiboy"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 18
+        },
+        "model": "mctc:decoration/pride23/towel_demigirl"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 19
+        },
+        "model": "mctc:decoration/pride23/towel_genderfaun"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 20
+        },
+        "model": "mctc:decoration/pride23/stage_light_broken"
       }
     ]
   }

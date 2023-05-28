@@ -411,6 +411,12 @@
         "custom_model_data": 1016
       },
       "model": "mctc:decoration/lovefair/lovebot/bake"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1017
+      },
+      "model": "mctc:decoration/pride23/bucket"
     }
   ]
 }
