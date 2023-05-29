@@ -126,6 +126,12 @@
           "custom_model_data": 21
         },
         "model": "mctc:decoration/pride23/amp"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 22
+        },
+        "model": "mctc:decoration/pride23/drums"
       }
     ]
   }
