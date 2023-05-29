@@ -120,6 +120,12 @@
           "custom_model_data": 20
         },
         "model": "mctc:decoration/pride23/stage_light_broken"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 21
+        },
+        "model": "mctc:decoration/pride23/amp"
       }
     ]
   }
