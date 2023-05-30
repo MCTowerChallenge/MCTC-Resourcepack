@@ -1,6 +1,0 @@
-{
-    "parent": "mctc:hats/anim_template_handflag",
-    "textures": {
-        "main": "mctc:hats/pride_handflag1"
-    }
-}
