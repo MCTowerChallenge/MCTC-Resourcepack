@@ -21,18 +21,6 @@
         "custom_model_data": 3
       },
       "model": "mctc:hats/pride/anim_pride_handflag"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 4
-      },
-      "model": "mctc:hats/pride/anim_ace_handflag"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 5
-      },
-      "model": "mctc:hats/pride/anim_aro_handflag"
     }
   ]
 }

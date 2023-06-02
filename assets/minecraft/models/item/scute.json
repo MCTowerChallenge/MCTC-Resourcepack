@@ -51,6 +51,126 @@
         "custom_model_data": 10
       },
       "model": "mctc:decoration/presents/tall_red"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "mctc:hats/pride/flag_ace"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "mctc:hats/pride/flag_agender"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "mctc:hats/pride/flag_aro"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "mctc:hats/pride/flag_aroace"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "mctc:hats/pride/flag_bi"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "mctc:hats/pride/flag_bigender"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "mctc:hats/pride/flag_demigender"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "mctc:hats/pride/flag_demiromantic"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "mctc:hats/pride/flag_demisexual"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "mctc:hats/pride/flag_gay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "mctc:hats/pride/flag_genderfluid"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "mctc:hats/pride/flag_genderqueer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "mctc:hats/pride/flag_graysexual"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "mctc:hats/pride/flag_intersex"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "mctc:hats/pride/flag_lesbian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "mctc:hats/pride/flag_nonbinary"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "mctc:hats/pride/flag_omni"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37
+      },
+      "model": "mctc:hats/pride/flag_pan"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "mctc:hats/pride/flag_progress"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "mctc:hats/pride/flag_trans"
     }
   ]
 }
