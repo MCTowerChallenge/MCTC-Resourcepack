@@ -132,6 +132,12 @@
           "custom_model_data": 22
         },
         "model": "mctc:decoration/pride23/drums"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 23
+        },
+        "model": "mctc:decoration/pride23/microphone"
       }
     ]
   }
