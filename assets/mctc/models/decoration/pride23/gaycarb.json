@@ -4,7 +4,7 @@
 	"textures": {
 		"1": "mctc:decoration/pride23/carb",
 		"2": "mctc:decoration/pride23/crown",
-		"main": "mctc:hats/pride_handflag1",
+		"main": "mctc:hats/pride/pride_handflag1",
 		"particle": "mctc:decoration/pride23/carb"
 	},
 	"elements": [
