@@ -192,6 +192,24 @@
     },
     {
       "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "mctc:hats/visor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "mctc:hats/sunglasses_j23"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "mctc:hats/ducky"
+    },
+    {
+      "predicate": {
         "custom_model_data": 800
       },
       "model": "mctc:hats/winners"

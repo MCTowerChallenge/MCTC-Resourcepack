@@ -138,6 +138,42 @@
           "custom_model_data": 23
         },
         "model": "mctc:decoration/pride23/microphone"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 24
+        },
+        "model": "mctc:decoration/pride23/mic"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 25
+        },
+        "model": "mctc:decoration/pride23/cymbals"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 26
+        },
+        "model": "mctc:decoration/pride23/drumseat"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 27
+        },
+        "model": "mctc:decoration/pride23/mic_stand"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 28
+        },
+        "model": "mctc:decoration/pride23/keyboard"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 29
+        },
+        "model": "mctc:decoration/pride23/keyboard1"
       }
     ]
   }
