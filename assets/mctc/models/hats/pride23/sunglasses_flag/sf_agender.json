@@ -1,0 +1,6 @@
+{
+    "parent": "mctc:hats/pride23/sunglasses_flag/sf_template",
+    "textures": {
+        "1": "mctc:hats/pride/agender"
+    }
+}

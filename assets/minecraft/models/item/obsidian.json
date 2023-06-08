@@ -168,12 +168,6 @@
           "custom_model_data": 28
         },
         "model": "mctc:decoration/pride23/keyboard"
-      },
-      {
-        "predicate": {
-          "custom_model_data": 29
-        },
-        "model": "mctc:decoration/pride23/keyboard1"
       }
     ]
   }

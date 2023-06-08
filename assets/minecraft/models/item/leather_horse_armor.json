@@ -210,6 +210,366 @@
     },
     {
       "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "mctc:hats/pride23/visor_flag/vf_ace"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37
+      },
+      "model": "mctc:hats/pride23/visor_flag/vf_agender"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "mctc:hats/pride23/visor_flag/vf_aro"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "mctc:hats/pride23/visor_flag/vf_aroace"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "mctc:hats/pride23/visor_flag/vf_bi"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41
+      },
+      "model": "mctc:hats/pride23/visor_flag/vf_bigender"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "mctc:hats/pride23/visor_flag/vf_demigender"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      },
+      "model": "mctc:hats/pride23/visor_flag/vf_demisexual"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 44
+      },
+      "model": "mctc:hats/pride23/visor_flag/vf_demiromantic"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 45
+      },
+      "model": "mctc:hats/pride23/visor_flag/vf_gay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 46
+      },
+      "model": "mctc:hats/pride23/visor_flag/vf_genderfluid"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 47
+      },
+      "model": "mctc:hats/pride23/visor_flag/vf_genderqueer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 48
+      },
+      "model": "mctc:hats/pride23/visor_flag/vf_graysexual"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 49
+      },
+      "model": "mctc:hats/pride23/visor_flag/vf_intersex"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50
+      },
+      "model": "mctc:hats/pride23/visor_flag/vf_lesbian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 51
+      },
+      "model": "mctc:hats/pride23/visor_flag/vf_nonbinary"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52
+      },
+      "model": "mctc:hats/pride23/visor_flag/vf_omni"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 53
+      },
+      "model": "mctc:hats/pride23/visor_flag/vf_pan"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 54
+      },
+      "model": "mctc:hats/pride23/visor_flag/vf_progress"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 55
+      },
+      "model": "mctc:hats/pride23/visor_flag/vf_trans"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 56
+      },
+      "model": "mctc:hats/pride23/ducky_flag/df_ace"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 57
+      },
+      "model": "mctc:hats/pride23/ducky_flag/df_agender"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58
+      },
+      "model": "mctc:hats/pride23/ducky_flag/df_aro"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 59
+      },
+      "model": "mctc:hats/pride23/ducky_flag/df_aroace"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60
+      },
+      "model": "mctc:hats/pride23/ducky_flag/df_bi"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61
+      },
+      "model": "mctc:hats/pride23/ducky_flag/df_bigender"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 62
+      },
+      "model": "mctc:hats/pride23/ducky_flag/df_demigender"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 63
+      },
+      "model": "mctc:hats/pride23/ducky_flag/df_demisexual"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 64
+      },
+      "model": "mctc:hats/pride23/ducky_flag/df_demiromantic"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 65
+      },
+      "model": "mctc:hats/pride23/ducky_flag/df_gay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 66
+      },
+      "model": "mctc:hats/pride23/ducky_flag/df_genderfluid"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 67
+      },
+      "model": "mctc:hats/pride23/ducky_flag/df_genderqueer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 68
+      },
+      "model": "mctc:hats/pride23/ducky_flag/df_graysexual"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 69
+      },
+      "model": "mctc:hats/pride23/ducky_flag/df_intersex"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 70
+      },
+      "model": "mctc:hats/pride23/ducky_flag/df_lesbian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 71
+      },
+      "model": "mctc:hats/pride23/ducky_flag/df_nonbinary"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 72
+      },
+      "model": "mctc:hats/pride23/ducky_flag/df_omni"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 73
+      },
+      "model": "mctc:hats/pride23/ducky_flag/df_pan"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 74
+      },
+      "model": "mctc:hats/pride23/ducky_flag/df_progress"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 75
+      },
+      "model": "mctc:hats/pride23/ducky_flag/df_trans"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 76
+      },
+      "model": "mctc:hats/pride23/sunglasses_flag/sf_ace"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 77
+      },
+      "model": "mctc:hats/pride23/sunglasses_flag/sf_agender"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 78
+      },
+      "model": "mctc:hats/pride23/sunglasses_flag/sf_aro"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 79
+      },
+      "model": "mctc:hats/pride23/sunglasses_flag/sf_aroace"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 80
+      },
+      "model": "mctc:hats/pride23/sunglasses_flag/sf_bi"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 81
+      },
+      "model": "mctc:hats/pride23/sunglasses_flag/sf_bigender"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 82
+      },
+      "model": "mctc:hats/pride23/sunglasses_flag/sf_demigender"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 83
+      },
+      "model": "mctc:hats/pride23/sunglasses_flag/sf_demisexual"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 84
+      },
+      "model": "mctc:hats/pride23/sunglasses_flag/sf_demiromantic"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 85
+      },
+      "model": "mctc:hats/pride23/sunglasses_flag/sf_gay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 86
+      },
+      "model": "mctc:hats/pride23/sunglasses_flag/sf_genderfluid"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 87
+      },
+      "model": "mctc:hats/pride23/sunglasses_flag/sf_genderqueer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 88
+      },
+      "model": "mctc:hats/pride23/sunglasses_flag/sf_graysexual"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 89
+      },
+      "model": "mctc:hats/pride23/sunglasses_flag/sf_intersex"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 90
+      },
+      "model": "mctc:hats/pride23/sunglasses_flag/sf_lesbian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 91
+      },
+      "model": "mctc:hats/pride23/sunglasses_flag/sf_nonbinary"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 92
+      },
+      "model": "mctc:hats/pride23/sunglasses_flag/sf_omni"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 93
+      },
+      "model": "mctc:hats/pride23/sunglasses_flag/sf_pan"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 94
+      },
+      "model": "mctc:hats/pride23/sunglasses_flag/sf_progress"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 95
+      },
+      "model": "mctc:hats/pride23/sunglasses_flag/sf_trans"
+    },
+    {
+      "predicate": {
         "custom_model_data": 800
       },
       "model": "mctc:hats/winners"

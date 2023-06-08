@@ -1,6 +1,0 @@
-{
-    "parent": "mctc:hats/pride/flag_template",
-    "textures": {
-        "1": "mctc:hats/pride/graysexual"
-    }
-}
