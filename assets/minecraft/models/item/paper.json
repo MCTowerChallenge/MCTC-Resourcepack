@@ -93,6 +93,132 @@
         "custom_model_data": 15
       },
       "model": "mctc:gui/icons/tower"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100
+      },
+      "model": "mctc:gui/icons/flags/asexual"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101
+      },
+      "model": "mctc:gui/icons/flags/agender"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 102
+      },
+      "model": "mctc:gui/icons/flags/aromantic"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 103
+      },
+      "model": "mctc:gui/icons/flags/aroace"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 104
+      },
+      "model": "mctc:gui/icons/flags/bisexual"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 105
+      },
+      "model": "mctc:gui/icons/flags/bigender"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 106
+      },
+      "model": "mctc:gui/icons/flags/demigender"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 107
+      },
+      "model": "mctc:gui/icons/flags/demiromantic"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 108
+      },
+      "model": "mctc:gui/icons/flags/demisexual"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 109
+      },
+      "model": "mctc:gui/icons/flags/gay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110
+      },
+      "model": "mctc:gui/icons/flags/genderfluid"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 111
+      },
+      "model": "mctc:gui/icons/flags/genderqueer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 112
+      },
+      "model": "mctc:gui/icons/flags/graysexual"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 113
+      },
+      "model": "mctc:gui/icons/flags/intersex"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 114
+      },
+      "model": "mctc:gui/icons/flags/lesbian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 115
+      },
+      "model": "mctc:gui/icons/flags/nonbinary"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 116
+      },
+      "model": "mctc:gui/icons/flags/omnisexual"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 117
+      },
+      "model": "mctc:gui/icons/flags/pansexual"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 118
+      },
+      "model": "mctc:gui/icons/flags/progress"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 119
+      },
+      "model": "mctc:gui/icons/flags/transgender"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 120
+      },
+      "model": "mctc:decoration/pride23/flag_outline"
     }
   ]
 }
