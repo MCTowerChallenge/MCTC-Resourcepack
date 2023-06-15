@@ -21,6 +21,18 @@
         "custom_model_data": 3
       },
       "model": "mctc:hats/pride23/anim_pride_handflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "mctc:decoration/pride23/drumstick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "mctc:decoration/pride23/drumsticks"
     }
   ]
 }
