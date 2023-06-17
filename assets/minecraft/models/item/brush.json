@@ -1,7 +1,60 @@
 {
-  "parent": "minecraft:item/generated",
+  "parent": "item/generated",
   "textures": {
-    "layer0": "minecraft:item/brush"
+    "layer0": "item/brush"
+  },
+  "display": {
+    "firstperson_lefthand": {
+      "rotation": [
+        55,
+        -85,
+        0
+      ],
+      "translation": [
+        8.0,
+        0.5,
+        -5.5
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        0,
+        45
+      ],
+      "translation": [
+        0,
+        4,
+        0
+      ],
+      "scale": [
+        0.9,
+        0.9,
+        0.9
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        0,
+        -45
+      ],
+      "translation": [
+        0,
+        4,
+        0
+      ],
+      "scale": [
+        0.9,
+        0.9,
+        0.9
+      ]
+    }
   },
   "overrides": [
     {
@@ -9,6 +62,27 @@
         "custom_model_data": 1
       },
       "model": "mctc:decoration/pride23/rainbow_brush"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1,
+        "brushing": 0.25
+      },
+      "model": "mctc:decoration/pride23/rainbow_brush_brushing_0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1,
+        "brushing": 0.5
+      },
+      "model": "mctc:decoration/pride23/rainbow_brush_brushing_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1,
+        "brushing": 0.75
+      },
+      "model": "mctc:decoration/pride23/rainbow_brush_brushing_2"
     }
   ]
 }
