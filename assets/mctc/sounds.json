@@ -1,319 +1,192 @@
 {
   "notification": {
     "sounds": [
-      "mctc:notification"
+      {
+        "name": "mctc:notification",
+        "stream": true
+      }
     ]
   },
   "suspense": {
     "sounds": [
-      "mctc:suspenseshort"
+      {
+        "name": "mctc:suspenseshort",
+        "stream": true
+      }
     ]
   },
   "vine": {
     "sounds": [
-      "mctc:vine"
-    ]
-  },
-  "spirit.any-time": {
-    "sounds": [
       {
-        "name": "mctc:spirit/apr2023/any-time",
+        "name": "mctc:vine",
         "stream": true
       }
     ]
   },
-  "spirit.bite-apple": {
+  "bell": {
     "sounds": [
       {
-        "name": "mctc:spirit/apr2023/bite-apple",
+        "name": "mctc:bell",
         "stream": true
       }
     ]
   },
-  "spirit.carried-away": {
+  "steve.back_already": {
     "sounds": [
       {
-        "name": "mctc:spirit/apr2023/carried-away",
+        "name": "mctc:steve/jun2023/back_already",
         "stream": true
       }
     ]
   },
-  "spirit.enchantment-area": {
+  "steve.busy": {
     "sounds": [
       {
-        "name": "mctc:spirit/apr2023/enchantment-area",
+        "name": "mctc:steve/jun2023/busy",
         "stream": true
       }
     ]
   },
-  "spirit.found-steve": {
+  "steve.endi": {
     "sounds": [
       {
-        "name": "mctc:spirit/apr2023/found-steve",
+        "name": "mctc:steve/jun2023/endi",
         "stream": true
       }
     ]
   },
-  "spirit.gather-materials": {
+  "steve.endi_worry": {
     "sounds": [
       {
-        "name": "mctc:spirit/apr2023/gather-materials",
+        "name": "mctc:steve/jun2023/endi_worry",
         "stream": true
       }
     ]
   },
-  "spirit.good-run": {
+  "steve.fresh": {
     "sounds": [
       {
-        "name": "mctc:spirit/apr2023/good-run",
+        "name": "mctc:steve/jun2023/fresh",
         "stream": true
       }
     ]
   },
-  "spirit.grab-antidote": {
+  "steve.further_news": {
     "sounds": [
       {
-        "name": "mctc:spirit/apr2023/grab-antidote",
+        "name": "mctc:steve/jun2023/further_news",
         "stream": true
       }
     ]
   },
-  "spirit.grocery-list": {
+  "steve.get_back_soon": {
     "sounds": [
       {
-        "name": "mctc:spirit/apr2023/grocery-list",
+        "name": "mctc:steve/jun2023/get_back_soon",
         "stream": true
       }
     ]
   },
-  "spirit.leaving-hints": {
+  "steve.grave_face": {
     "sounds": [
       {
-        "name": "mctc:spirit/apr2023/leaving-hints",
+        "name": "mctc:steve/jun2023/grave_face",
         "stream": true
       }
     ]
   },
-  "spirit.limited-time": {
+  "steve.hello_everyone": {
     "sounds": [
       {
-        "name": "mctc:spirit/apr2023/limited-time",
+        "name": "mctc:steve/jun2023/hello_everyone",
         "stream": true
       }
     ]
   },
-  "spirit.mushroom-lamp": {
+  "steve.help": {
     "sounds": [
       {
-        "name": "mctc:spirit/apr2023/mushroom-lamp",
+        "name": "mctc:steve/jun2023/help",
         "stream": true
       }
     ]
   },
-  "spirit.one-second": {
+  "steve.how_about_this": {
     "sounds": [
       {
-        "name": "mctc:spirit/apr2023/one-second",
+        "name": "mctc:steve/jun2023/how_about_this",
         "stream": true
       }
     ]
   },
-  "spirit.steve-acting": {
+  "steve.how_long": {
     "sounds": [
       {
-        "name": "mctc:spirit/apr2023/steve-acting",
+        "name": "mctc:steve/jun2023/how_long",
         "stream": true
       }
     ]
   },
-  "spirit.too-far": {
+  "steve.nevermind": {
     "sounds": [
       {
-        "name": "mctc:spirit/apr2023/too-far",
+        "name": "mctc:steve/jun2023/nevermind",
         "stream": true
       }
     ]
   },
-  "spirit.will-you-help": {
+  "steve.no_glass": {
     "sounds": [
       {
-        "name": "mctc:spirit/apr2023/will-you-help",
+        "name": "mctc:steve/jun2023/no_glass",
         "stream": true
       }
     ]
   },
-  "spirit.work-quickly": {
+  "steve.one_last": {
     "sounds": [
       {
-        "name": "mctc:spirit/apr2023/work-quickly",
+        "name": "mctc:steve/jun2023/one_last",
         "stream": true
       }
     ]
   },
-  "spirit.as-for-groom": {
+  "steve.pride": {
     "sounds": [
       {
-        "name": "mctc:spirit/apr2023/as-for-groom",
+        "name": "mctc:steve/jun2023/pride",
         "stream": true
       }
     ]
   },
-  "spirit.not-discrete": {
+  "steve.pure_glass": {
     "sounds": [
       {
-        "name": "mctc:spirit/apr2023/not-discrete",
+        "name": "mctc:steve/jun2023/pure_glass",
         "stream": true
       }
     ]
   },
-  "steve.all_need_to_do": {
+  "steve.snacks": {
     "sounds": [
       {
-        "name": "mctc:steve/apr2023/all_need_to_do",
+        "name": "mctc:steve/jun2023/snacks",
         "stream": true
       }
     ]
   },
-  "steve.antidote_simple": {
+  "steve.thanks": {
     "sounds": [
       {
-        "name": "mctc:steve/apr2023/antidote_simple",
+        "name": "mctc:steve/jun2023/thanks",
         "stream": true
       }
     ]
   },
-  "steve.bailing_out": {
+  "steve.worthwhile": {
     "sounds": [
       {
-        "name": "mctc:steve/apr2023/bailing_out",
-        "stream": true
-      }
-    ]
-  },
-  "steve.between_dimensions": {
-    "sounds": [
-      {
-        "name": "mctc:steve/apr2023/between_dimensions",
-        "stream": true
-      }
-    ]
-  },
-  "steve.butt_stallion": {
-    "sounds": [
-      {
-        "name": "mctc:steve/apr2023/butt_stallion",
-        "stream": true
-      }
-    ]
-  },
-  "steve.doesnt_matter": {
-    "sounds": [
-      {
-        "name": "mctc:steve/apr2023/doesnt_matter",
-        "stream": true
-      }
-    ]
-  },
-  "steve.dont_have_antidote": {
-    "sounds": [
-      {
-        "name": "mctc:steve/apr2023/dont_have_antidote",
-        "stream": true
-      }
-    ]
-  },
-  "steve.group_up_later": {
-    "sounds": [
-      {
-        "name": "mctc:steve/apr2023/group_up_later",
-        "stream": true
-      }
-    ]
-  },
-  "steve.need_it": {
-    "sounds": [
-      {
-        "name": "mctc:steve/apr2023/need_it",
-        "stream": true
-      }
-    ]
-  },
-  "steve.not_good": {
-    "sounds": [
-      {
-        "name": "mctc:steve/apr2023/not_good",
-        "stream": true
-      }
-    ]
-  },
-  "steve.no_sense": {
-    "sounds": [
-      {
-        "name": "mctc:steve/apr2023/no_sense",
-        "stream": true
-      }
-    ]
-  },
-  "steve.oh_its_you": {
-    "sounds": [
-      {
-        "name": "mctc:steve/apr2023/oh_its_you",
-        "stream": true
-      }
-    ]
-  },
-  "steve.recipe": {
-    "sounds": [
-      {
-        "name": "mctc:steve/apr2023/recipe",
-        "stream": true
-      }
-    ]
-  },
-  "steve.rest": {
-    "sounds": [
-      {
-        "name": "mctc:steve/apr2023/rest",
-        "stream": true
-      }
-    ]
-  },
-  "steve.stay_back": {
-    "sounds": [
-      {
-        "name": "mctc:steve/apr2023/stay_back",
-        "stream": true
-      }
-    ]
-  },
-  "steve.take_care_everything": {
-    "sounds": [
-      {
-        "name": "mctc:steve/apr2023/take_care_everything",
-        "stream": true
-      }
-    ]
-  },
-  "steve.thank_heavens": {
-    "sounds": [
-      {
-        "name": "mctc:steve/apr2023/thank_heavens",
-        "stream": true
-      }
-    ]
-  },
-  "steve.unless": {
-    "sounds": [
-      {
-        "name": "mctc:steve/apr2023/unless",
-        "stream": true
-      }
-    ]
-  },
-  "steve.wonderful_job": {
-    "sounds": [
-      {
-        "name": "mctc:steve/apr2023/wonderful_job",
+        "name": "mctc:steve/jun2023/worthwhile",
         "stream": true
       }
     ]
