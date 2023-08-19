@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/crying_obsidian",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "mctc:block/magenta_crying_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "mctc:block/lime_crying_obsidian"
+    }
+  ]
+}

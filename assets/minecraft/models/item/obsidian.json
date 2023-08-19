@@ -192,6 +192,18 @@
           "custom_model_data": 32
         },
         "model": "mctc:decoration/pride23/poster_fr"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 33
+        },
+        "model": "mctc:block/magenta_obsidian"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 34
+        },
+        "model": "mctc:block/lime_obsidian"
       }
     ]
   }
