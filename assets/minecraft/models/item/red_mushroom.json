@@ -129,6 +129,30 @@
         "custom_model_data": 21
       },
       "model": "mctc:decoration/headstones/headstone_zeen"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "mctc:decoration/headstones/headstone_blank_c"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "mctc:decoration/headstones/headstone_blank_cob"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "mctc:decoration/headstones/headstone_blank_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "mctc:decoration/headstones/c_apple"
     }
   ]
 }
