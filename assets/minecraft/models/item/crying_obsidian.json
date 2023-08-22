@@ -5,13 +5,193 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "mctc:block/magenta_crying_obsidian"
+      "model": "mctc:block/red_obsidian"
     },
     {
       "predicate": {
         "custom_model_data": 2
       },
+      "model": "mctc:block/red_crying_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "mctc:block/orange_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "mctc:block/orange_crying_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "mctc:block/yellow_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "mctc:block/yellow_crying_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "mctc:block/lime_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
       "model": "mctc:block/lime_crying_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "mctc:block/green_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "mctc:block/green_crying_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "mctc:block/cyan_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "mctc:block/cyan_crying_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "mctc:block/light_blue_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "mctc:block/light_blue_crying_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "mctc:block/blue_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "mctc:block/blue_crying_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "mctc:block/purple_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "mctc:block/purple_crying_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "mctc:block/magenta_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "mctc:block/magenta_crying_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "mctc:block/pink_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "mctc:block/pink_crying_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "mctc:block/white_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "mctc:block/white_crying_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "mctc:block/light_gray_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "mctc:block/light_gray_crying_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "mctc:block/gray_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "mctc:block/gray_crying_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "mctc:block/black_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "mctc:block/black_crying_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "mctc:block/brown_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "mctc:block/brown_crying_obsidian"
     }
   ]
 }
