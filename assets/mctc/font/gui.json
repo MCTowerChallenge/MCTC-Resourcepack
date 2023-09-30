@@ -1,0 +1,32 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "mctc:gui/questgui_v3.png",
+      "height": 228,
+      "ascent": 19,
+      "chars": ["\uE003"]
+    },
+    {
+      "type": "bitmap",
+      "file": "mctc:gui/questgui.png",
+      "height": 256,
+      "ascent": 13,
+      "chars": ["\uE002"]
+    },
+    {
+      "type": "bitmap",
+      "file": "mctc:gui/chestoverlay.png",
+      "height": 256,
+      "ascent": 13,
+      "chars": ["\uE001"]
+    },
+    {
+      "type": "bitmap",
+      "file": "mctc:font/title.png",
+      "height": 256,
+      "ascent": 72,
+      "chars": ["\uE000"]
+    }
+  ]
+}

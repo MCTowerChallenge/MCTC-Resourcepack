@@ -1,0 +1,49 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "mctc:emotes/eyes.png",
+      "height": 10,
+      "ascent": 9,
+      "chars": [
+        "\uE000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mctc:emotes/lafond2laflameda.png",
+      "height": 10,
+      "ascent": 9,
+      "chars": [
+        "\uE001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mctc:emotes/lafond2lovefonda.png",
+      "height": 10,
+      "ascent": 9,
+      "chars": [
+        "\uE002"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mctc:emotes/benbyypog.png",
+      "height": 10,
+      "ascent": 9,
+      "chars": [
+        "\uE003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mctc:emotes/benbyyfire.png",
+      "height": 10,
+      "ascent": 9,
+      "chars": [
+        "\uE004"
+      ]
+    }
+  ]
+}
