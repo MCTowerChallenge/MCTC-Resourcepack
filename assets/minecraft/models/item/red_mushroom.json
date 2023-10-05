@@ -134,25 +134,91 @@
       "predicate": {
         "custom_model_data": 22
       },
-      "model": "mctc:decoration/headstones/headstone_blank_c"
+      "model": "mctc:decoration/headstones/c_blank"
     },
     {
       "predicate": {
         "custom_model_data": 23
       },
-      "model": "mctc:decoration/headstones/headstone_blank_cob"
+      "model": "mctc:decoration/headstones/c_apple"
     },
     {
       "predicate": {
         "custom_model_data": 24
       },
-      "model": "mctc:decoration/headstones/headstone_blank_stone"
+      "model": "mctc:decoration/headstones/c_mysti"
     },
     {
       "predicate": {
         "custom_model_data": 25
       },
-      "model": "mctc:decoration/headstones/c_apple"
+      "model": "mctc:decoration/headstones/c_lafonda"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "mctc:decoration/headstones/c_chazz"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "mctc:decoration/headstones/c_chloe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "mctc:decoration/headstones/c_gib"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "mctc:decoration/headstones/c_gib2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "mctc:decoration/headstones/c_gumko"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "mctc:decoration/headstones/c_howds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "mctc:decoration/headstones/c_rip"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "mctc:decoration/headstones/c_rip2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "mctc:decoration/headstones/c_shork"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "mctc:decoration/headstones/c_steve"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "mctc:decoration/headstones/c_zeen"
     }
   ]
 }
