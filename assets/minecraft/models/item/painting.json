@@ -15,6 +15,12 @@
         "custom_model_data": 2
       },
       "model": "mctc:decoration/pictures/jim_bo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "mctc:decoration/pictures/mctclogo"
     }
   ]
 }
