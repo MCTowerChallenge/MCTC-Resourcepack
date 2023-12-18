@@ -198,6 +198,24 @@
           "custom_model_data": 33
         },
         "model": "mctc:decoration/jan24/garbage"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 34
+        },
+        "model": "mctc:decoration/jan24/garbage2"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 35
+        },
+        "model": "mctc:decoration/jan24/garbage3"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 36
+        },
+        "model": "mctc:decoration/jan24/garbage4"
       }
     ]
   }
