@@ -570,6 +570,30 @@
     },
     {
       "predicate": {
+        "custom_model_data": 96
+      },
+      "model": "mctc:hats/jan24/glasses/up"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 97
+      },
+      "model": "mctc:hats/jan24/glasses/mid"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 98
+      },
+      "model": "mctc:hats/jan24/glasses/low"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 99
+      },
+      "model": "mctc:hats/jan24/glasses/mysti"
+    },
+    {
+      "predicate": {
         "custom_model_data": 800
       },
       "model": "mctc:hats/winners"
