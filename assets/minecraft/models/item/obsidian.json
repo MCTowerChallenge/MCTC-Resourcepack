@@ -197,25 +197,25 @@
         "predicate": {
           "custom_model_data": 33
         },
-        "model": "mctc:decoration/jan24/garbage"
+        "model": "mctc:decoration/jan24/garbages/garbage"
       },
       {
         "predicate": {
           "custom_model_data": 34
         },
-        "model": "mctc:decoration/jan24/garbage2"
+        "model": "mctc:decoration/jan24/garbages/garbage2"
       },
       {
         "predicate": {
           "custom_model_data": 35
         },
-        "model": "mctc:decoration/jan24/garbage3"
+        "model": "mctc:decoration/jan24/garbages/garbage3"
       },
       {
         "predicate": {
           "custom_model_data": 36
         },
-        "model": "mctc:decoration/jan24/garbage4"
+        "model": "mctc:decoration/jan24/garbages/garbage4"
       },
       {
         "predicate": {
