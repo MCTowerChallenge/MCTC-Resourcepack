@@ -216,6 +216,12 @@
           "custom_model_data": 36
         },
         "model": "mctc:decoration/jan24/garbage4"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 37
+        },
+        "model": "mctc:decoration/jan24/nye_ball"
       }
     ]
   }
