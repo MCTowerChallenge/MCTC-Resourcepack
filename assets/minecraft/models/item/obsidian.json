@@ -245,7 +245,19 @@
         "predicate": {
           "custom_model_data": 41
         },
+        "model": "mctc:decoration/jan24/band/guitar"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 42
+        },
         "model": "mctc:decoration/jan24/band/trumpet"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 43
+        },
+        "model": "mctc:decoration/jan24/band/trumpet_stand"
       }
     ]
   }
