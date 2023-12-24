@@ -240,6 +240,12 @@
           "custom_model_data": 40
         },
         "model": "mctc:decoration/jan24/band/stand"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 41
+        },
+        "model": "mctc:decoration/jan24/band/trumpet"
       }
     ]
   }
