@@ -221,23 +221,23 @@
         "predicate": {
           "custom_model_data": 37
         },
-        "model": "mctc:decoration/jan24/nye_ball"
+        "model": "mctc:decoration/jan24/ball"
       },
       {
         "predicate": {
           "custom_model_data": 38
         },
-        "model": "mctc:decoration/jan24/band/bass_display"
-      },
-      {
-        "predicate": {
-          "custom_model_data": 38
-        },
-        "model": "mctc:decoration/jan24/band/bass_solo"
+        "model": "mctc:decoration/jan24/ball_broken"
       },
       {
         "predicate": {
           "custom_model_data": 39
+        },
+        "model": "mctc:decoration/jan24/band/bass"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 40
         },
         "model": "mctc:decoration/jan24/band/stand"
       }
