@@ -714,6 +714,18 @@
     },
     {
       "predicate": {
+        "custom_model_data": 915
+      },
+      "model": "mctc:hats/anim_gods_mysti_horns"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 916
+      },
+      "model": "mctc:hats/anim_gods_mysti_horns_v2"
+    },
+    {
+      "predicate": {
         "custom_model_data": 1000
       },
       "model": "mctc:decoration/colorborder"
