@@ -258,6 +258,18 @@
           "custom_model_data": 43
         },
         "model": "mctc:decoration/jan24/band/trumpet_stand"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 44
+        },
+        "model": "mctc:decoration/jan24/quest/gear1"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 45
+        },
+        "model": "mctc:decoration/jan24/quest/gear2"
       }
     ]
   }
