@@ -15,6 +15,14 @@
       }
     ]
   },
+  "pipe": {
+    "sounds": [
+      {
+        "name": "mctc:pipe",
+        "stream": true
+      }
+    ]
+  },
   "suspenseshort": {
     "sounds": [
       {
