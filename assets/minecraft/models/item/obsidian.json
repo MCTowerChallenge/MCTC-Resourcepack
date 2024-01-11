@@ -270,6 +270,30 @@
           "custom_model_data": 45
         },
         "model": "mctc:decoration/jan24/quest/gear2"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 46
+        },
+        "model": "mctc:decoration/jan24/patreons/quinklyn"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 47
+        },
+        "model": "mctc:decoration/jan24/patreons/scaredarti"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 48
+        },
+        "model": "mctc:decoration/jan24/patreons/claire"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 49
+        },
+        "model": "mctc:decoration/jan24/patreons/tenshiku"
       }
     ]
   }
