@@ -294,6 +294,12 @@
           "custom_model_data": 49
         },
         "model": "mctc:decoration/jan24/patreons/tenshiku"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 50
+        },
+        "model": "mctc:decoration/jan24/quest/gauge"
       }
     ]
   }

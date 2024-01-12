@@ -1,0 +1,43 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "mctc:decoration/jan24/quest/gauge",
+		"particle": "mctc:decoration/jan24/quest/gauge"
+	},
+	"elements": [
+		{
+			"from": [-0.1, 0, 1],
+			"to": [16.1, 16.8, 1],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 0.8], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [80, 30, 0],
+			"translation": [1.5, -0.75, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [80, 30, 0],
+			"translation": [1.5, -0.75, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -6.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [0, 180, 0],
+			"translation": [0.25, 0, 0],
+			"scale": [0.87, 0.87, 0.87]
+		},
+		"fixed": {
+			"translation": [0, -0.75, 9.25],
+			"scale": [1.33594, 1.33594, 1.33594]
+		}
+	}
+}
