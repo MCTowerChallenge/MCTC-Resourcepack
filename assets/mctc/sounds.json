@@ -39,34 +39,98 @@
       }
     ]
   },
-  "gen.jan2024.gen_quest1": {
+  "band.jan2024.bass": {
     "sounds": [
       {
-        "name": "mctc:gen/jan2024/gen_quest1",
+        "name": "mctc:band/jan2024/bass",
         "stream": true
       }
     ]
   },
-  "gen.jan2024.guy_quest2": {
+  "band.jan2024.bells": {
     "sounds": [
       {
-        "name": "mctc:gen/jan2024/guy_quest2",
+        "name": "mctc:band/jan2024/bells",
         "stream": true
       }
     ]
   },
-  "gen.jan2024.guy_quest3": {
+  "band.jan2024.drums": {
     "sounds": [
       {
-        "name": "mctc:gen/jan2024/guy_quest3",
+        "name": "mctc:band/jan2024/drums",
         "stream": true
       }
     ]
   },
-  "gen.jan2024.guy_quest4": {
+  "band.jan2024.fullmono": {
     "sounds": [
       {
-        "name": "mctc:gen/jan2024/guy_quest4",
+        "name": "mctc:band/jan2024/fullmono",
+        "stream": true
+      }
+    ]
+  },
+  "band.jan2024.fullstereo": {
+    "sounds": [
+      {
+        "name": "mctc:band/jan2024/fullstereo",
+        "stream": true
+      }
+    ]
+  },
+  "band.jan2024.guitar": {
+    "sounds": [
+      {
+        "name": "mctc:band/jan2024/guitar",
+        "stream": true
+      }
+    ]
+  },
+  "band.jan2024.solo": {
+    "sounds": [
+      {
+        "name": "mctc:band/jan2024/solo",
+        "stream": true
+      }
+    ]
+  },
+  "band.jan2024.synth": {
+    "sounds": [
+      {
+        "name": "mctc:band/jan2024/synth",
+        "stream": true
+      }
+    ]
+  },
+  "genericmaintenanceman.jan2024.quest1": {
+    "sounds": [
+      {
+        "name": "mctc:genericmaintenanceman/jan2024/quest1",
+        "stream": true
+      }
+    ]
+  },
+  "genericmaintenanceman.jan2024.quest2": {
+    "sounds": [
+      {
+        "name": "mctc:genericmaintenanceman/jan2024/quest2",
+        "stream": true
+      }
+    ]
+  },
+  "genericmaintenanceman.jan2024.quest3": {
+    "sounds": [
+      {
+        "name": "mctc:genericmaintenanceman/jan2024/quest3",
+        "stream": true
+      }
+    ]
+  },
+  "genericmaintenanceman.jan2024.quest4": {
+    "sounds": [
+      {
+        "name": "mctc:genericmaintenanceman/jan2024/quest4",
         "stream": true
       }
     ]
@@ -871,58 +935,58 @@
       }
     ]
   },
-  "steve.jan2024.steve_intro1": {
+  "steve.jan2024.intro1": {
     "sounds": [
       {
-        "name": "mctc:steve/jan2024/steve_intro1",
+        "name": "mctc:steve/jan2024/intro1",
         "stream": true
       }
     ]
   },
-  "steve.jan2024.steve_intro2": {
+  "steve.jan2024.intro2": {
     "sounds": [
       {
-        "name": "mctc:steve/jan2024/steve_intro2",
+        "name": "mctc:steve/jan2024/intro2",
         "stream": true
       }
     ]
   },
-  "steve.jan2024.steve_quest1": {
+  "steve.jan2024.quest1": {
     "sounds": [
       {
-        "name": "mctc:steve/jan2024/steve_quest1",
+        "name": "mctc:steve/jan2024/quest1",
         "stream": true
       }
     ]
   },
-  "steve.jan2024.steve_quest2": {
+  "steve.jan2024.quest2": {
     "sounds": [
       {
-        "name": "mctc:steve/jan2024/steve_quest2",
+        "name": "mctc:steve/jan2024/quest2",
         "stream": true
       }
     ]
   },
-  "steve.jan2024.steve_quest3": {
+  "steve.jan2024.quest3": {
     "sounds": [
       {
-        "name": "mctc:steve/jan2024/steve_quest3",
+        "name": "mctc:steve/jan2024/quest3",
         "stream": true
       }
     ]
   },
-  "steve.jan2024.steve_questidle": {
+  "steve.jan2024.questidle": {
     "sounds": [
       {
-        "name": "mctc:steve/jan2024/steve_questidle.1",
+        "name": "mctc:steve/jan2024/questidle.1",
         "stream": true
       },
       {
-        "name": "mctc:steve/jan2024/steve_questidle.2",
+        "name": "mctc:steve/jan2024/questidle.2",
         "stream": true
       },
       {
-        "name": "mctc:steve/jan2024/steve_questidle.3",
+        "name": "mctc:steve/jan2024/questidle.3",
         "stream": true
       }
     ]
