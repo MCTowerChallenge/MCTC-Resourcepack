@@ -1,0 +1,101 @@
+{
+  "parent": "minecraft:block/honeycomb_block",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "mctc:block/red_hcb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "mctc:block/honeycombs/orange_hcb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "mctc:block/honeycombs/yellow_hcb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "mctc:block/honeycombs/lime_hcb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "mctc:block/honeycombs/green_hcb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "mctc:block/honeycombs/cyan_hcb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "mctc:block/honeycombs/light_blue_hcb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "mctc:block/honeycombs/blue_hcb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "mctc:block/honeycombs/purple_hcb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "mctc:block/honeycombs/magenta_hcb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "mctc:block/honeycombs/pink_hcb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "mctc:block/honeycombs/white_hcb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "mctc:block/honeycombs/light_gray_hcb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "mctc:block/honeycombs/gray_hcb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "mctc:block/honeycombs/black_hcb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "mctc:block/honeycombs/brown_hcb"
+    }
+  ]
+}
