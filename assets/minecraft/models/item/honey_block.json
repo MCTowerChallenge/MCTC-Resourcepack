@@ -1,0 +1,101 @@
+{
+    "parent": "minecraft:block/honey_block",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "mctc:block/honey/red_honey_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "mctc:block/honey/orange_honey_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "mctc:block/honey/yellow_honey_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "mctc:block/honey/lime_honey_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "mctc:block/honey/green_honey_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "mctc:block/honey/cyan_honey_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "mctc:block/honey/light_blue_honey_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "mctc:block/honey/blue_honey_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "mctc:block/honey/purple_honey_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "mctc:block/honey/magenta_honey_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "mctc:block/honey/pink_honey_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "mctc:block/honey/white_honey_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "mctc:block/honey/light_gray_honey_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "mctc:block/honey/gray_honey_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "mctc:block/honey/black_honey_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "mctc:block/honey/brown_honey_block"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mctc:block/honeycombs/light_gray_hcb"
+  }
+}
