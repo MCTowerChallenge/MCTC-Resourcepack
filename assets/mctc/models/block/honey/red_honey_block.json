@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"down": "block/honey_block_bottom",
-		"particle": "block/honey_block_top",
-		"up": "block/honey_block_top",
-		"side": "block/honey_block_side"
+		"down": "mctc:block/honey/red_bottom",
+		"particle": "mctc:block/honey/red_top",
+		"up": "mctc:block/honey/red_top",
+		"side": "mctc:block/honey/red_side"
 	},
 	"elements": [
 		{

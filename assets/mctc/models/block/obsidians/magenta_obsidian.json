@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "mctc:block/magenta_obsidian"
+    "all": "mctc:block/obsidians/magenta_obsidian"
   }
 }
