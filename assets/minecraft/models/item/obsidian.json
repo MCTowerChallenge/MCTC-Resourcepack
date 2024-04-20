@@ -300,6 +300,24 @@
           "custom_model_data": 50
         },
         "model": "mctc:decoration/jan24/quest/gauge"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 51
+        },
+        "model": "mctc:decoration/police_tape"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 52
+        },
+        "model": "mctc:decoration/police_tape_2"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 53
+        },
+        "model": "mctc:decoration/police_tape_3"
       }
     ]
   }
