@@ -594,6 +594,48 @@
     },
     {
       "predicate": {
+        "custom_model_data": 100
+      },
+      "model": "mctc:hats/2024_05/bee_antenna"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101
+      },
+      "model": "mctc:hats/2024_05/anim_beewings/beewings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 102
+      },
+      "model": "mctc:hats/2024_05/anim_bees/bees"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 103
+      },
+      "model": "mctc:hats/2024_05/beekeeper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 104
+      },
+      "model": "mctc:hats/2024_05/growsdoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 105
+      },
+      "model": "mctc:hats/2024_05/gnome"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 106
+      },
+      "model": "mctc:hats/2024_05/growsdoe_antlers"
+    },
+    {
+      "predicate": {
         "custom_model_data": 800
       },
       "model": "mctc:hats/winners"
