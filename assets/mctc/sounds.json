@@ -103,6 +103,302 @@
       }
     ]
   },
+  "genericbeeconservationistman.may2024.collect_idle.line_1.1": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/collect_idle.line_1.1",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.collect_idle.line_1.2": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/collect_idle.line_1.2",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.collect_idle.line_2.1": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/collect_idle.line_2.1",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.collect_idle.line_2.2": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/collect_idle.line_2.2",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.collect_idle.line_3.1": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/collect_idle.line_3.1",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.collect_idle.line_3.2": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/collect_idle.line_3.2",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.finished.line_1.1": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/finished.line_1.1",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.finished.line_1.2": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/finished.line_1.2",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.finished.line_1.3": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/finished.line_1.3",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.finished.line_1.4": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/finished.line_1.4",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.give_bee_hives.line_1.1": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/give_bee_hives.line_1.1",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.give_bee_hives.line_1.2": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/give_bee_hives.line_1.2",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.give_bee_hives.line_10.1": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/give_bee_hives.line_10.1",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.give_bee_hives.line_10.2": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/give_bee_hives.line_10.2",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.give_bee_hives.line_11.1": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/give_bee_hives.line_11.1",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.give_bee_hives.line_11.2": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/give_bee_hives.line_11.2",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.give_bee_hives.line_2.1": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/give_bee_hives.line_2.1",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.give_bee_hives.line_2.2": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/give_bee_hives.line_2.2",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.give_bee_hives.line_3.1": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/give_bee_hives.line_3.1",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.give_bee_hives.line_4.1": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/give_bee_hives.line_4.1",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.give_bee_hives.line_5.1": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/give_bee_hives.line_5.1",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.give_bee_hives.line_6.1": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/give_bee_hives.line_6.1",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.give_bee_hives.line_7.1": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/give_bee_hives.line_7.1",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.give_bee_hives.line_8.1": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/give_bee_hives.line_8.1",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.give_bee_hives.line_8.2": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/give_bee_hives.line_8.2",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.give_bee_hives.line_9.1": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/give_bee_hives.line_9.1",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.give_bee_hives.line_9.2": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/give_bee_hives.line_9.2",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.start_quest.line_1.1": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/start_quest.line_1.1",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.start_quest.line_1.2": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/start_quest.line_1.2",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.start_quest.line_1.3": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/start_quest.line_1.3",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.start_quest.line_2.1": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/start_quest.line_2.1",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.start_quest.line_2.2": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/start_quest.line_2.2",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.start_quest.line_3.1": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/start_quest.line_3.1",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.start_quest.line_3.2": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/start_quest.line_3.2",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.start_quest.line_4.1": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/start_quest.line_4.1",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.start_quest.line_5.1": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/start_quest.line_5.1",
+        "stream": true
+      }
+    ]
+  },
+  "genericbeeconservationistman.may2024.start_quest.line_5.2": {
+    "sounds": [
+      {
+        "name": "mctc:genericbeeconservationistman/may2024/start_quest.line_5.2",
+        "stream": true
+      }
+    ]
+  },
   "genericmaintenanceman.jan2024.quest1": {
     "sounds": [
       {
