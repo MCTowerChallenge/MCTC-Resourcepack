@@ -1,5 +1,7 @@
 {
   "menu.game": "",
   "menu.returnToGame": "\uE000",
-  "menu.disconnect": "\u00A7eLeave MCTC"
+  "menu.disconnect": "\u00A7eLeave MCTC",
+  "item.minecraft.music_disc_pigstep": "Music Disc",
+  "item.minecraft.music_disc_pigstep.desc": "Mystievous - The Withering Groove Machine"
 }
