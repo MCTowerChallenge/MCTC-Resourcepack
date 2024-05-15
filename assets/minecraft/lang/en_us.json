@@ -3,5 +3,7 @@
   "menu.returnToGame": "\uE000",
   "menu.disconnect": "\u00A7eLeave MCTC",
   "item.minecraft.music_disc_pigstep": "Music Disc",
-  "item.minecraft.music_disc_pigstep.desc": "Mystievous - The Withering Groove Machine"
+  "item.minecraft.music_disc_pigstep.desc": "Artemis Fine - The Withering Groove Machine",
+  "item.minecraft.music_disc_13": "Music Disc",
+  "item.minecraft.music_disc_13.desc": "Artemis Fine & Ava Shew - Curiosity"
 }
