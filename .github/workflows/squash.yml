@@ -15,16 +15,16 @@ jobs:
     - name: Run PackSquash
       uses: ComunidadAylas/PackSquash-action@v4
       with:
-        artifact_name: Pack
-        transcode_ogg: false
-    - name: Download optimized pack
-      uses: actions/download-artifact@v4
-      with:
-        name: Pack
+        artifact_name: pack
+        packsquash_version: latest
+        options: |
+          # Set a custom output file path to work with the generated ZIP file
+          # without needing to download its artifact in a separate step
+          output_file_path = '/tmp/pack.zip'
     - name: Create release
       uses: softprops/action-gh-release@v2
       with:
-        files: pack.zip
+        files: /tmp/pack.zip
   # release:
   #   needs: [squash]
   #   runs-on: ubuntu-20.04
