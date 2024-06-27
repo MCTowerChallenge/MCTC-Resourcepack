@@ -9,49 +9,33 @@ jobs:
     environment: Resource Pack
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         fetch-depth: 0
     - name: Run PackSquash
-      uses: ComunidadAylas/PackSquash-action@v3
+      uses: ComunidadAylas/PackSquash-action@v4
       with:
-        artifact_name: Pack
-        transcode_ogg: false
-    - name: Download optimized pack
-      uses: actions/download-artifact@v3
-      with:
-        name: Pack
+        artifact_name: pack
+        packsquash_version: latest
+        options: |
+          # Optimize the pack in the root repository directory.
+          # This is the default value for pack_directory when no PackSquash options are defined
+          pack_directory = '.'
+          
+          # Set a custom output file path to work with the generated ZIP file
+          # without needing to download its artifact in a separate step
+          output_file_path = '/tmp/pack.zip'
     - name: Create release
-      uses: softprops/action-gh-release@v1
+      uses: softprops/action-gh-release@v2
       with:
-        files: pack.zip
-  release:
-    needs: [squash]
-    runs-on: ubuntu-20.04
-    environment: Resource Pack
-    steps:
-    - name: Fetch Github Release Asset
-      uses: dsaltares/fetch-gh-release-asset@1.1.1
-      with:
-        file: pack.zip
-        target: pack.zip
-    - name: Update Hash
-      env:
-        HOST: ${{ secrets.HOST }}
-        PORT: ${{ secrets.PORT }}
-        USERNAME: ${{ secrets.USERNAME }}
-        PASSWORD: ${{ secrets.PASSWORD }}
-      run: |
-        hash=$(sha1sum pack.zip | cut -d " " -f 1)
-        pftp -inv $HOST $PORT <<EOF
-        user $USERNAME $PASSWORD
-        get server.properties
-        bye
-        EOF
-        sed -i "/resource-pack-sha1=/c\resource-pack-sha1=$hash" server.properties
-        pftp -inv $HOST $PORT <<EOF
-        user $USERNAME $PASSWORD
-        mput server.properties
-        bye
-        EOF
-        rm server.properties
+        files: /tmp/pack.zip
+  # release:
+  #   needs: [squash]
+  #   runs-on: ubuntu-20.04
+  #   environment: Resource Pack
+  #   steps:
+  #   - name: Fetch Github Release Asset
+  #     uses: dsaltares/fetch-gh-release-asset@1.1.1
+  #     with:
+  #       file: pack.zip
+  #       target: pack.zip

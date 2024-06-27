@@ -95,6 +95,18 @@
       "model": "mctc:gui/icons/tower"
     },
     {
+        "predicate": {
+            "custom_model_data": 16
+        },
+        "model": "mctc:gui/icons/play"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 17
+        },
+        "model": "mctc:gui/icons/pause"
+    },
+    {
       "predicate": {
         "custom_model_data": 100
       },

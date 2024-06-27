@@ -16,6 +16,12 @@
                 "custom_model_data": 2
             },
             "model": "mctc:gui/icons/right_arrow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "mctc:gui/icons/refresh"
         }
     ]
 }
