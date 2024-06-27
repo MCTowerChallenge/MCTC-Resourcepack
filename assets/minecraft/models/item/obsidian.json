@@ -318,6 +318,12 @@
           "custom_model_data": 53
         },
         "model": "mctc:decoration/police_tape_3"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 54
+        },
+        "model": "mctc:decoration/green_bamboo_fencepost"
       }
     ]
   }
