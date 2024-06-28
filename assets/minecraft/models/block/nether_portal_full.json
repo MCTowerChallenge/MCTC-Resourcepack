@@ -33,6 +33,14 @@
         "south": {
           "texture": "#all",
           "cullface": "south"
+        },
+        "up": {
+          "texture": "#all",
+          "cullface": "up"
+        },
+        "down": {
+          "texture": "#all",
+          "cullface": "down"
         }
       }
     }
