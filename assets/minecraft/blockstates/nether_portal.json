@@ -1,7 +1,7 @@
 {
   "variants": {
     "axis=x": {
-      "model": "minecraft:block/nether_portal_end"
+      "model": "minecraft:block/nether_portal_ns"
     },
     "axis=z": {
       "model": "minecraft:block/nether_portal_end"
