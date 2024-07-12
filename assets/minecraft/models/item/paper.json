@@ -95,16 +95,46 @@
       "model": "mctc:gui/icons/tower"
     },
     {
-        "predicate": {
-            "custom_model_data": 16
-        },
-        "model": "mctc:gui/icons/play"
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "mctc:gui/icons/play"
     },
     {
-        "predicate": {
-            "custom_model_data": 17
-        },
-        "model": "mctc:gui/icons/pause"
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "mctc:gui/icons/pause"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "mctc:gui/equipment/empty_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "mctc:gui/equipment/empty_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "mctc:gui/equipment/empty_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "mctc:gui/equipment/empty_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "mctc:gui/equipment/empty_shield"
     },
     {
       "predicate": {
